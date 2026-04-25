@@ -1,0 +1,102 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "08D9662036FBE722"
+	group: ""
+	icon: {
+		id: "minecraft:crafter"
+	}
+	id: "08D9662036FBE722"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "2EFD70CA10E0C68C"
+			rewards: [{
+				id: "288599AAB799FB0C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "heart"
+			size: 1.25d
+			tasks: [{
+				id: "0B1B2711FCD16D52"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "ftbquests:screen_1"
+			}
+			id: "608DD8D79C574EED"
+			repeat_cooldown: 500
+			rewards: [{
+				id: "4CA1CAD483AC8FC1"
+				item: {
+					count: 1
+					id: "ftbquests:screen_1"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "49B235E1CA43C707"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "create:blaze_burner"
+			}
+			id: "1E712E8A590D7933"
+			repeat_cooldown: 500
+			rewards: [{
+				command: "/tellraw @p {\"color\":\"#15F0FF\",\"text\":\"ТКГ CreateAll\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://t.me/+lSjmcxcMoZZiNWJi\"}}"
+				icon: {
+					id: "create:blaze_burner"
+				}
+				id: "6D63E5820ACBC3AD"
+				type: "command"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "066FF880682B25BE"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:crafter"
+			}
+			id: "1F0D7EFC10C4241C"
+			repeat_cooldown: 500
+			rewards: [{
+				command: "/tellraw @p {\"color\":\"#FFC21A\",\"text\":\"Vonikilz\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/Vonikilz\"}}"
+				icon: {
+					id: "minecraft:crafter"
+				}
+				id: "68DC65AEDEAD2297"
+				type: "command"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "0AE9DA5F6A2EB449"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+	]
+}

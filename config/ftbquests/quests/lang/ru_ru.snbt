@@ -1,0 +1,49 @@
+{
+	chapter.08D9662036FBE722.title: "&aПриветствие&r"
+	chapter.349CBECDB9D24DEC.title: "&#3CFF6CЛёгкое&r"
+	chapter.41540865BF55722F.title: "&#FF183BТяжёлое&r"
+	chapter.70769147E2A10F05.title: "&#FF5E0BСреднее&r"
+	chapter_group.65334D6C64FB8B33.title: "&6Производство&r"
+	file.0000000000000001.title: "Create"
+	quest.04E5BEAD5B454AD9.title: "Производство огненного порошка"
+	quest.0A47F7E5CD8E7D2F.quest_desc: ["Генератор пепела можно получить при столкновении шоколада с лавой"]
+	quest.0A47F7E5CD8E7D2F.title: "Производство коксового угля"
+	quest.1240C0502FCE6D34.quest_desc: ["Можно промывать гравий, а можно фармить големов"]
+	quest.1240C0502FCE6D34.title: "Производство железа"
+	quest.1BC654375B2E8350.quest_desc: ["Из зелья ночного зрения или фермы ведьм"]
+	quest.1BC654375B2E8350.title: "Производство светокамня"
+	quest.1E712E8A590D7933.title: "&#15F0FFМой ТКГ&r"
+	quest.1F0D7EFC10C4241C.title: "Я на &#15F0FFGitHub&r"
+	quest.1F92D5AC19A209B7.quest_desc: ["Промойте песок душ"]
+	quest.1F92D5AC19A209B7.title: "Производство кварца"
+	quest.207E50E07EA72FAF.title: "Производство чугуна"
+	quest.2A475F88730DE356.quest_desc: ["Из зелья моментального урона или фермы криперов"]
+	quest.2A475F88730DE356.title: "Производство пороха"
+	quest.2EFD70CA10E0C68C.quest_desc: ["Приветствую всех на сборке Create is my life &6V1.0.0&r! Для обратной связи есть &bТКГ&r. &aУдачной игры!&r"]
+	quest.2EFD70CA10E0C68C.title: "Приветствие"
+	quest.41A5FDF4F3C6680D.title: "Произфодство наростов"
+	quest.41E88B6ABE0D4000.quest_desc: ["Из зелья силы или фермы ведьм"]
+	quest.41E88B6ABE0D4000.title: "Производство редсоуна"
+	quest.4917A05D5ADF19F6.quest_desc: ["Генератор булыжника + бур"]
+	quest.4917A05D5ADF19F6.title: "Производство булыжника"
+	quest.50B044A4AE0EF172.quest_desc: ["Используйте комбайн"]
+	quest.50B044A4AE0EF172.title: "Производство еды"
+	quest.608DD8D79C574EED.title: "Для квестов"
+	quest.6216DB74C22B27D4.quest_desc: ["Механическая пила это ключевой элемент фермы дерева"]
+	quest.6216DB74C22B27D4.title: "Производство дерева"
+	quest.62E35419178BEAA4.quest_desc: ["Лава + мёд = генератор известника"]
+	quest.62E35419178BEAA4.title: "Производство известника"
+	quest.6356BE86D8D827A2.quest_desc: ["Просто пережарить брёвна"]
+	quest.6356BE86D8D827A2.title: "Производство угля"
+	quest.68622E8860F658CD.quest_desc: ["Передробите гравий"]
+	quest.68622E8860F658CD.title: "Производство песка"
+	quest.6B34FA355BA94973.quest_desc: ["Промойте красный песок"]
+	quest.6B34FA355BA94973.title: "Производство золота"
+	quest.76C34C04CCE03CAD.quest_desc: ["Передробите булыжник"]
+	quest.76C34C04CCE03CAD.title: "Производство гравия"
+	quest.7E28BA5472E36DCA.title: "Производство кремниего слитка"
+	reward.68DC65AEDEAD2297.title: "&#FFC21AVonikilz&r"
+	reward.6D63E5820ACBC3AD.title: "&#15F0FFТКГ CreateAll&r"
+	task.1185650643D0D752.title: "Уголь"
+	task.2C40B5C11EC6386C.title: "Дерево"
+}

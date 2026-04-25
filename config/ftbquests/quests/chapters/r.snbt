@@ -1,0 +1,58 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "r"
+	group: "65334D6C64FB8B33"
+	icon: {
+		id: "minecraft:redstone"
+	}
+	id: "41540865BF55722F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1BC654375B2E8350"
+			tasks: [{
+				count: 10000L
+				id: "0CB057A209AA9B35"
+				item: { count: 1, id: "minecraft:glowstone_dust" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "2A475F88730DE356"
+			tasks: [{
+				count: 10000L
+				id: "32DDC06D176BC5FB"
+				item: { count: 1, id: "minecraft:gunpowder" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "41E88B6ABE0D4000"
+			tasks: [{
+				count: 10000L
+				id: "58E3EC9D31FFA43B"
+				item: { count: 1, id: "minecraft:redstone" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "7E28BA5472E36DCA"
+			tasks: [{
+				count: 10000L
+				id: "6FA643E46F83741A"
+				item: { count: 1, id: "tfmg:silicon_ingot" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+	]
+}

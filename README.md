@@ -1,3 +1,10 @@
 Сборка модов для minecraft 1.21.1 NeoForge   
 
-Основные моды это Aeronautics и The Factory Must Grow
+Основные моды это:  
+- Create Aeronautics (Аддон на самолёты, дирижабли, машины)
+- Create: The Factory Must Grow (Аддон на тяжёлую промышленность)
+- Create Big Cannons (Мод на пушки и турели)
+- Create: Extra Gauges (Аддон на улучшение системы авто-крафта)
+- Create Ore Excavation Plus (Аддон для более сбалансированной добычи руды)
+- Waystones Sable (Аддон, благодаря которому можно ставить обелиски на самолёты и дирижабли)
+- CC: Sable (Аддон, благодаря которому можно использовать CC: Tweaked на самолётах и дирижаблях)

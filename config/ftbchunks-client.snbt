@@ -138,48 +138,50 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:cow": true
-			"minecraft:sheep": true
-			"creeperoverhaul:dripstone_creeper": true
-			"minecraft:axolotl": true
-			"minecraft:husk": true
-			"creeperoverhaul:cave_creeper": true
-			"minecraft:panda": true
-			"minecraft:enderman": true
-			"creeperoverhaul:bamboo_creeper": true
-			"minecraft:turtle": true
-			"minecraft:drowned": true
-			"minecraft:slime": true
-			"minecraft:armadillo": true
-			"minecraft:squid": true
-			"minecraft:ocelot": true
-			"minecraft:frog": true
-			"minecraft:zombie_villager": true
-			"minecraft:bat": true
-			"minecraft:pig": true
-			"minecraft:zombie": true
-			"minecraft:witch": true
-			"minecraft:cod": false
-			"creeperoverhaul:desert_creeper": true
-			"minecraft:wolf": true
-			"minecraft:chicken": true
-			"minecraft:dolphin": true
-			"creeperoverhaul:swamp_creeper": true
-			"minecraft:skeleton": true
-			"minecraft:tropical_fish": false
-			"creeperoverhaul:savannah_creeper": true
-			"creeperoverhaul:badlands_creeper": true
-			"minecraft:spider": true
-			"minecraft:parrot": true
 			"minecraft:donkey": true
-			"creeperoverhaul:ocean_creeper": true
-			"minecraft:glow_squid": true
+			"minecraft:wolf": true
+			"minecraft:cod": false
 			"minecraft:rabbit": true
-			"minecraft:creeper": true
-			"minecraft:bogged": true
-			"creeperoverhaul:jungle_creeper": true
-			"minecraft:phantom": true
+			"creeperoverhaul:badlands_creeper": true
+			"minecraft:frog": true
+			"minecraft:piglin": true
+			"creeperoverhaul:bamboo_creeper": true
 			"minecraft:bee": true
+			"minecraft:husk": true
+			"minecraft:armadillo": true
+			"creeperoverhaul:jungle_creeper": true
+			"minecraft:squid": true
+			"minecraft:chicken": true
+			"minecraft:tropical_fish": false
+			"creeperoverhaul:swamp_creeper": true
+			"creeperoverhaul:desert_creeper": true
+			"minecraft:ocelot": true
+			"minecraft:witch": true
+			"creeperoverhaul:ocean_creeper": true
+			"creeperoverhaul:savannah_creeper": true
+			"minecraft:slime": true
+			"minecraft:phantom": true
+			"minecraft:drowned": true
+			"minecraft:spider": true
+			"minecraft:bogged": true
+			"minecraft:zombie_villager": true
+			"minecraft:creeper": true
+			"minecraft:sheep": true
+			"minecraft:zombie": true
+			"minecraft:parrot": true
+			"minecraft:axolotl": true
+			"minecraft:dolphin": true
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:bat": true
+			"minecraft:turtle": true
+			"minecraft:skeleton": true
+			"minecraft:enderman": true
+			"minecraft:pig": true
+			"minecraft:glow_squid": true
+			"creeperoverhaul:dripstone_creeper": true
+			"minecraft:strider": true
+			"minecraft:panda": true
+			"minecraft:cow": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

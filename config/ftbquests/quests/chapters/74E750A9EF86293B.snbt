@@ -1,0 +1,440 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "74E750A9EF86293B"
+	group: "62FF445200752705"
+	icon: {
+		id: "tfmg:heavy_machinery_casing"
+	}
+	id: "74E750A9EF86293B"
+	order_index: 6
+	quest_links: [{
+		id: "09DE0D6350BC8941"
+		linked_quest: "44BD130757C626A5"
+		x: -4.0d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			dependencies: ["459468558725F65A"]
+			id: "544AD91D247EF15C"
+			tasks: [{
+				id: "04A2955B03EDAF12"
+				item: { count: 1, id: "tfmg:heavy_machinery_casing" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "66AC8A3EDA051DAD"
+			tasks: [{
+				id: "0D7A15E271B5AAD0"
+				item: { count: 1, id: "tfmg:regular_engine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "0EF537BC3CAD4A3D"
+			tasks: [{
+				id: "6FD58BCC5EBBD3E5"
+				item: { count: 1, id: "tfmg:radial_engine" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "5691EB6BBA6AFED5"
+			tasks: [{
+				id: "38A265C2635E6599"
+				item: { count: 1, id: "tfmg:electrode_holder" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "0162BE1A4B798606"
+			tasks: [{
+				id: "720915068345300A"
+				item: { count: 1, id: "tfmg:concrete_hose" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "06637A4010744205"
+			progression_mode: "linear"
+			tasks: [{
+				id: "4F267B22D443F1A2"
+				item: { count: 1, id: "tfmg:heavy_cable_hub" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "3675D5B437747208"
+			tasks: [{
+				id: "4F1A3DDC62B4BDB3"
+				item: { count: 1, id: "tfmg:electrical_switch" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "592660CE4F2B3EC6"
+			tasks: [{
+				id: "36DE0953C02A7415"
+				item: { count: 1, id: "tfmg:mixer_blade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["544AD91D247EF15C"]
+			id: "56A5FAC60CF82B7D"
+			tasks: [{
+				id: "259DE4AF11D39A6D"
+				item: { count: 1, id: "tfmg:steel_mechanism" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "078BB01EA619B9F6"
+			tasks: [{
+				id: "28056B5DE7870089"
+				item: { count: 1, id: "tfmg:engine_gearbox" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "3E422ED63E5F4C25"
+			tasks: [
+				{
+					id: "2851EB2036AC1946"
+					item: { count: 1, id: "tfmg:steel_distillation_controller" }
+					type: "item"
+				}
+				{
+					id: "3DF1F84E46D719C8"
+					item: { count: 1, id: "tfmg:steel_fluid_tank" }
+					type: "item"
+				}
+				{
+					id: "17D319A712BF01ED"
+					item: { count: 1, id: "tfmg:steel_distillation_output" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "2EC348A8767A0E1B"
+			tasks: [
+				{
+					id: "7FBA7BA649DDD822"
+					item: { count: 1, id: "tfmg:pumpjack_crank" }
+					type: "item"
+				}
+				{
+					id: "6352AEDEC0A9D960"
+					item: { count: 1, id: "tfmg:pumpjack_base" }
+					type: "item"
+				}
+				{
+					id: "2C5324E0B2A92346"
+					item: { count: 1, id: "tfmg:pumpjack_hammer" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "4277694B9F7DD47F"
+			tasks: [{
+				id: "20FC2DBBE2C1EDEB"
+				item: { count: 1, id: "tfmg:industrial_mixer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "58F6B97543778C46"
+			tasks: [{
+				id: "6B8F2F5225CA385C"
+				item: { count: 1, id: "tfmg:winding_machine" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "2CEE065686776CDA"
+			tasks: [{
+				id: "26146ED057078F72"
+				item: { count: 1, id: "tfmg:surface_scanner" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "4ACAE68487974405"
+			tasks: [{
+				id: "73C1934D0B2BE5CD"
+				item: { count: 1, id: "tfmg:machine_input" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "03B424C565CD767C"
+			tasks: [{
+				id: "073907FE95C74290"
+				item: { count: 1, id: "tfmg:large_switch" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["56A5FAC60CF82B7D"]
+			id: "4D71528756555779"
+			tasks: [{
+				id: "22CD8BD3E24AF46B"
+				item: { count: 1, id: "tfmg:quad_potato_cannon" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["58F6B97543778C46"]
+			id: "5CDB44D29F110C45"
+			tasks: [{
+				id: "65BF7AF71476C2D0"
+				item: { count: 1, id: "tfmg:resistor" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["58F6B97543778C46"]
+			id: "5107FAB5BFC9AACD"
+			tasks: [{
+				id: "73F97DDFD5CC94F4"
+				item: { count: 1, id: "tfmg:large_coil" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["58F6B97543778C46"]
+			id: "5EB1C260F0CBA3BB"
+			tasks: [{
+				id: "284254288C3FBB1D"
+				item: { count: 1, id: "tfmg:electromagnetic_coil" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["58F6B97543778C46"]
+			id: "0183C54E7BD7801B"
+			tasks: [{
+				id: "4F46356683F99A58"
+				item: { count: 1, id: "tfmg:electric_motor" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3E422ED63E5F4C25"]
+			id: "43D18C03B069F887"
+			tasks: [{
+				id: "39C5A6A7081A7401"
+				item: { count: 1, id: "tfmg:potentiometer" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["58F6B97543778C46"]
+			id: "161EB9C3199E4FA0"
+			tasks: [{
+				id: "6E54C806B186EE4F"
+				item: { count: 1, id: "tfmg:generator" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5CDB44D29F110C45"]
+			id: "7D393FD179CE976A"
+			tasks: [{
+				id: "5218A12D5C63702A"
+				item: { count: 1, id: "tfmg:polarizer" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3E422ED63E5F4C25"]
+			id: "3F8D77AF4A6DBF90"
+			tasks: [{
+				id: "27AFFDA393634FCF"
+				item: { count: 1, id: "tfmg:napalm_potato" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3E422ED63E5F4C25"]
+			id: "6CDA55B9EE379BE5"
+			tasks: [{
+				id: "2312A66F7AC1675D"
+				item: { count: 1, id: "tfmg:rubber_sheet" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3E422ED63E5F4C25"]
+			id: "340A25FA25EBFAA5"
+			tasks: [{
+				id: "50D619AD5C4D9584"
+				item: { count: 1, id: "tfmg:bitumen" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3E422ED63E5F4C25"]
+			id: "3FC6995053A0D528"
+			tasks: [{
+				id: "0A7A1A4CD3B82799"
+				item: { count: 1, id: "tfmg:plastic_sheet" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4277694B9F7DD47F"]
+			id: "7905239E6DD65572"
+			tasks: [{
+				id: "3D7ABC744317E846"
+				item: { count: 1, id: "tfmg:copper_sulfate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6CDA55B9EE379BE5"]
+			id: "26DFC9D187D19E30"
+			tasks: [{
+				id: "7237DDBBCBDA2945"
+				item: { count: 1, id: "tfmg:cable_tube" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6CDA55B9EE379BE5"]
+			id: "5FC1384551540326"
+			tasks: [{
+				id: "1D7A62ED9798462E"
+				item: { count: 1, id: "tfmg:diagonal_cable_block" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3FC6995053A0D528"]
+			id: "35E1D7FD4933F6BD"
+			tasks: [{
+				id: "17B1121E5A4C026D"
+				item: { count: 1, id: "tfmg:empty_circuit_board" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3FC6995053A0D528"]
+			id: "7218105A7EBDF10B"
+			tasks: [{
+				id: "3088E98673E2011E"
+				item: { count: 1, id: "tfmg:lithium_charge" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["35E1D7FD4933F6BD"]
+			id: "4EA7B370DF86A178"
+			tasks: [{
+				id: "5FE126CE305D8DF2"
+				item: { count: 1, id: "tfmg:coated_circuit_board" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4EA7B370DF86A178"]
+			id: "760610C7904B7314"
+			tasks: [{
+				id: "47B7520595A5F58E"
+				item: { count: 1, id: "tfmg:etched_circuit_board" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 8.0d
+		}
+	]
+}

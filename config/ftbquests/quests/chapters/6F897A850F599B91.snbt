@@ -1,0 +1,91 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6F897A850F599B91"
+	group: "62FF445200752705"
+	icon: {
+		id: "tfmg:magnetic_alloy_ingot"
+	}
+	id: "6F897A850F599B91"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["459468558725F65A"]
+			id: "2D562ED5D0AA37A7"
+			tasks: [{
+				id: "46DC755F3F10BB37"
+				item: { count: 1, id: "tfmg:magnetic_alloy_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D562ED5D0AA37A7"]
+			id: "063E545129BBABCC"
+			tasks: [{
+				id: "5A66CF5B23C36A6F"
+				item: { count: 1, id: "tfmg:magnet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2D562ED5D0AA37A7"]
+			id: "19A64E795E95CE99"
+			tasks: [{
+				id: "362704C4E8EFDE45"
+				item: { count: 1, id: "tfmg:magnetic_alloy_sheet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["063E545129BBABCC"]
+			id: "43196D85CAA8CBA1"
+			tasks: [{
+				id: "1D6DF11EE6514AE4"
+				item: { count: 1, id: "tfmg:voltmeter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["43196D85CAA8CBA1"]
+			id: "098B8C4DF7C47D2E"
+			tasks: [{
+				id: "78CC246F9EE4CA44"
+				item: { components: { "ftbfiltersystem:filter": "or(item(tfmg:white_multimeter)item(tfmg:blue_multimeter)item(tfmg:light_blue_multimeter)item(tfmg:red_multimeter)item(tfmg:green_multimeter)item(tfmg:lime_multimeter)item(tfmg:pink_multimeter)item(tfmg:magenta_multimeter)item(tfmg:yellow_multimeter)item(tfmg:gray_multimeter)item(tfmg:light_gray_multimeter)item(tfmg:brown_multimeter)item(tfmg:cyan_multimeter)item(tfmg:purple_multimeter)item(tfmg:orange_multimeter)item(tfmg:black_multimeter)item(tfmg:multimeter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["19A64E795E95CE99"]
+			id: "09A5CF8D791C1385"
+			tasks: [{
+				id: "6B722BFA68FD847B"
+				item: { count: 1, id: "tfmg:transformer" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["09A5CF8D791C1385"]
+			id: "20EEF35C24734C9A"
+			tasks: [{
+				id: "660642BE7E0C9128"
+				item: { count: 1, id: "tfmg:converter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+	]
+}

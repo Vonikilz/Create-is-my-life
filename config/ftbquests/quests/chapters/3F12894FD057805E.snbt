@@ -2,24 +2,81 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "3F12894FD057805E"
-	group: "24B574849E1A6D6A"
+	group: ""
 	icon: {
 		id: "minecraft:end_stone"
 	}
 	id: "3F12894FD057805E"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
-	quests: [{
-		id: "2FC071F64B17EF69"
-		tasks: [{
-			dimension: "minecraft:the_end"
-			icon: {
-				id: "minecraft:end_stone"
-			}
-			id: "529F1FF3C0C19CAC"
-			type: "dimension"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			id: "2FC071F64B17EF69"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					id: "minecraft:end_stone"
+				}
+				id: "529F1FF3C0C19CAC"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2FC071F64B17EF69"]
+			id: "21FFF965F340F1FD"
+			tasks: [{
+				id: "01EFD673A3F02E9B"
+				item: { count: 1, id: "aeronautics:end_stone_powder" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21FFF965F340F1FD"]
+			id: "7188AB4CF922CB4F"
+			tasks: [{
+				id: "425D6C65747E7DE9"
+				item: { count: 1, id: "aeronautics:levitite_blend_bucket" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2FC071F64B17EF69"]
+			id: "17B28BFAEC197B6A"
+			tasks: [{
+				id: "2E2AA80A9854A2DB"
+				item: { count: 1, id: "minecraft:chorus_fruit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["17B28BFAEC197B6A"]
+			id: "32694E12B51A2FA6"
+			tasks: [{
+				id: "01E3257377B6AAC3"
+				item: { count: 1, id: "minecraft:popped_chorus_fruit" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["32694E12B51A2FA6"]
+			id: "638311B0CE178F37"
+			tasks: [{
+				id: "45E358257B63DCB4"
+				item: { count: 1, id: "createcasing:chorium_ingot" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+	]
 }

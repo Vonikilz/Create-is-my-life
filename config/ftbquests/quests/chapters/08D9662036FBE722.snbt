@@ -32,29 +32,6 @@
 		{
 			can_repeat: true
 			icon: {
-				id: "ftbquests:screen_1"
-			}
-			id: "608DD8D79C574EED"
-			repeat_cooldown: 500
-			rewards: [{
-				id: "4CA1CAD483AC8FC1"
-				item: {
-					count: 1
-					id: "ftbquests:screen_1"
-				}
-				type: "item"
-			}]
-			shape: "gear"
-			tasks: [{
-				id: "49B235E1CA43C707"
-				type: "checkmark"
-			}]
-			x: -0.5d
-			y: 1.0d
-		}
-		{
-			can_repeat: true
-			icon: {
 				id: "create:blaze_burner"
 			}
 			id: "1E712E8A590D7933"

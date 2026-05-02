@@ -1,0 +1,174 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4DA1E37E34827CC6"
+	group: "62FF445200752705"
+	icon: {
+		id: "createbigcannons:cast_iron_ingot"
+	}
+	id: "4DA1E37E34827CC6"
+	order_index: 2
+	quest_links: [{
+		id: "3C50795FBE2A8548"
+		linked_quest: "459468558725F65A"
+		x: 5.0d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			dependencies: ["5C347BFD8F670FD2"]
+			id: "57242108162112F1"
+			tasks: [{
+				id: "7FF283C51E34E149"
+				item: { components: { "ftbfiltersystem:filter": "or(item(tfmg:cast_iron_ingot)item(createbigcannons:cast_iron_ingot))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57242108162112F1"]
+			id: "26ABE1060003D9A9"
+			tasks: [{
+				id: "7A0AD3EBB4A06A21"
+				item: { count: 1, id: "createbigcannons:ap_shot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["57242108162112F1"]
+			id: "36630BC36B66E9D3"
+			tasks: [{
+				id: "42999600E6F3551B"
+				item: { count: 1, id: "createbigcannons:cast_iron_sliding_breechblock" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["57242108162112F1"]
+			id: "71450BA23D481C3B"
+			tasks: [{
+				id: "2FC765CA64F20E7E"
+				item: { count: 1, id: "createbigcannons:ap_autocannon_round" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["57242108162112F1"]
+			id: "23D6B036FA38B11F"
+			tasks: [{
+				count: 9L
+				id: "130E3094C36BC74B"
+				item: { count: 1, id: "tfmg:coke_oven" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["57242108162112F1"]
+			id: "4B103FC876DB8741"
+			tasks: [{
+				id: "6BA91EB14BEBCBF7"
+				item: { count: 1, id: "tfmg:casting_basin" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["57242108162112F1"]
+			id: "4F7BA21BE895C80C"
+			tasks: [{
+				id: "1D437D3ECF54F7B3"
+				item: { count: 1, id: "tfmg:exhaust" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["57242108162112F1"]
+			id: "7F41ADE3BB6D070A"
+			tasks: [{
+				id: "5E7A3672B07BE0F4"
+				item: { count: 1, id: "tfmg:cast_iron_sheet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["23D6B036FA38B11F"]
+			id: "4E3A7CC02C3D8A87"
+			tasks: [{
+				id: "1A3BC1E628965BA0"
+				item: { count: 1, id: "tfmg:coal_coke" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["23D6B036FA38B11F"]
+			id: "3B6091373D7CBA20"
+			tasks: [{
+				id: "3AF41D11D30C0F9C"
+				item: { count: 1, id: "tfmg:hardened_planks" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7F41ADE3BB6D070A"]
+			id: "7B61F5D9EB5438A5"
+			tasks: [{
+				id: "01515AA124B07150"
+				item: { count: 1, id: "tfmg:cast_iron_chemical_vat" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7F41ADE3BB6D070A"]
+			id: "50E13CA907CBFA1B"
+			tasks: [{
+				id: "60DD369584BD90E6"
+				item: { count: 1, id: "tfmg:blast_furnace_hatch" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["50E13CA907CBFA1B"]
+			id: "2A58734226978A66"
+			tasks: [{
+				id: "5D4229A94DEE81CD"
+				item: { count: 1, id: "tfmg:silicon_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2A58734226978A66"]
+			id: "255B39F6526312D6"
+			tasks: [{
+				id: "5DE8E9103629DD2D"
+				item: { count: 1, id: "tfmg:n_semiconductor" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+	]
+}

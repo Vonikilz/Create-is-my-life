@@ -1,0 +1,124 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "204B251EDBEF8BEC"
+	group: "62FF445200752705"
+	icon: {
+		id: "create:track_station"
+	}
+	id: "204B251EDBEF8BEC"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["44825DFC2FBFE1A7"]
+			id: "558CB035ED080BB7"
+			tasks: [{
+				id: "55AEFAA2E38EFFA6"
+				item: { count: 1, id: "create:controls" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "1C887F94E519A78B"
+			tasks: [{
+				id: "1111BFA1294160C0"
+				item: { count: 1, id: "numismatics:banking_guide" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "7745C2ADFE2F6263"
+			tasks: [{
+				id: "293ABBE5B20D8FA8"
+				item: { count: 1, id: "create:schedule" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "6B838B2659A5B51F"
+			tasks: [{
+				id: "0CFCBD34D5462560"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:small_fueling_tank)item(create_sa:medium_fueling_tank)item(create_sa:large_fueling_tank))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "39DA3BEC0929AE7A"
+			tasks: [{
+				id: "33F3D6A0B8B524DC"
+				item: { count: 1, id: "createoreexcavation:sample_drill" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "3736CD7407273FAA"
+			tasks: [{
+				id: "05269862FEB2B7F9"
+				item: { count: 1, id: "createoreexcavation:drilling_machine" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "0011D337B4CB62F0"
+			tasks: [{
+				id: "155265A5BCA9FC1C"
+				item: { count: 1, id: "createoreexcavation:extractor" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "5549D76094E2F801"
+			tasks: [{
+				id: "6AB6388A0E97AFE5"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "1C78C4F7CBEC5FCF"
+			tasks: [{
+				id: "49DA7F24A13AFD54"
+				item: { count: 1, id: "create:track_signal" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["558CB035ED080BB7"]
+			id: "70592B41DB23E055"
+			tasks: [{
+				id: "6C6A31165FF654D0"
+				item: { count: 1, id: "create:track_observer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+	]
+}

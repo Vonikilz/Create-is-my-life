@@ -1,0 +1,128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1"
+	group: "055E63D87E4A9F5B"
+	icon: {
+		id: "minecraft:crafting_table"
+	}
+	id: "4E370CA2CE005E1E"
+	order_index: 0
+	quest_links: [
+		{
+			id: "0D34A6BE867B7D79"
+			linked_quest: "6985D0584AE555C7"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "1D2B8F3AF4ADC8F3"
+			linked_quest: "4C03847CCB13F618"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "77C8882910F7DD5A"
+			linked_quest: "54D64959FEA5992B"
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "703922394467C1FA"
+			linked_quest: "737027E87337C523"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			id: "2231EFEF8E672770"
+			linked_quest: "21C63481D6074C4C"
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			id: "2F64227121213CE6"
+			linked_quest: "097F79C060D12AAA"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "5CD3C2CDFD4E92E2"
+			linked_quest: "076EDCA007093294"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "63CF7D84D622D311"
+			linked_quest: "12F8C43CAB764ACB"
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			id: "350E894390AB6E04"
+			linked_quest: "21172CADA1F46C53"
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "1F197CE5AADF613D"
+			linked_quest: "2BB8B6232D6654DD"
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	quests: [
+		{
+			id: "486358237CBE4D34"
+			rewards: [{
+				count: 16
+				id: "78EDF6538723CE53"
+				item: {
+					count: 1
+					id: "minecraft:oak_planks"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5BF4E2916C3074FE"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["486358237CBE4D34"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "5594BEF9116935FB"
+			rewards: [{
+				id: "13A67472F63C3E7B"
+				item: {
+					count: 1
+					id: "minecraft:furnace"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3B0B59A6A5FE3C7B"
+					item: { count: 1, id: "minecraft:stone_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "469528551F67150D"
+					item: { count: 1, id: "minecraft:stone_axe" }
+					type: "item"
+				}
+				{
+					id: "255FDD2F89FBEA17"
+					item: { count: 1, id: "minecraft:stone_shovel" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+}

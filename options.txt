@@ -126,8 +126,9 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-key_key.veil.editor:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
+key_key.createbigcannons.pitch_mode:key.keyboard.c
+key_key.createbigcannons.fire_controlled_cannon:key.mouse.left
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.previousPage:key.keyboard.unknown
@@ -254,7 +255,7 @@ key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.20422535211267606
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2A67C8B8C77FCF8F"
+	group: "62FF445200752705"
+	icon: {
+		id: "minecraft:netherrack"
+	}
+	id: "2A67C8B8C77FCF8F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "2AF44C11957198D5"
+		tasks: [{
+			dimension: "minecraft:the_nether"
+			icon: {
+				id: "minecraft:netherrack"
+			}
+			id: "76DB7DE7E741EA7A"
+			type: "dimension"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

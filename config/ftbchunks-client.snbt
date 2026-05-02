@@ -138,42 +138,48 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:zombie": true
-			"creeperoverhaul:swamp_creeper": true
-			"minecraft:wolf": true
-			"minecraft:sheep": true
-			"creeperoverhaul:desert_creeper": true
-			"minecraft:donkey": true
-			"creeperoverhaul:cave_creeper": true
-			"minecraft:bat": true
-			"minecraft:skeleton": true
-			"minecraft:frog": true
-			"minecraft:axolotl": true
-			"minecraft:tropical_fish": false
-			"minecraft:turtle": true
-			"minecraft:chicken": true
-			"minecraft:husk": true
-			"creeperoverhaul:bamboo_creeper": true
-			"minecraft:rabbit": true
-			"creeperoverhaul:dripstone_creeper": true
-			"minecraft:glow_squid": true
-			"minecraft:enderman": true
-			"minecraft:parrot": true
-			"minecraft:pig": true
-			"creeperoverhaul:jungle_creeper": true
-			"creeperoverhaul:savannah_creeper": true
-			"minecraft:spider": true
-			"minecraft:witch": true
-			"minecraft:drowned": true
-			"minecraft:panda": true
 			"minecraft:cow": true
-			"creeperoverhaul:badlands_creeper": true
-			"minecraft:creeper": true
-			"minecraft:squid": true
+			"minecraft:sheep": true
+			"creeperoverhaul:dripstone_creeper": true
+			"minecraft:axolotl": true
+			"minecraft:husk": true
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:panda": true
+			"minecraft:enderman": true
+			"creeperoverhaul:bamboo_creeper": true
+			"minecraft:turtle": true
+			"minecraft:drowned": true
 			"minecraft:slime": true
-			"minecraft:ocelot": true
-			"minecraft:bogged": true
 			"minecraft:armadillo": true
+			"minecraft:squid": true
+			"minecraft:ocelot": true
+			"minecraft:frog": true
+			"minecraft:zombie_villager": true
+			"minecraft:bat": true
+			"minecraft:pig": true
+			"minecraft:zombie": true
+			"minecraft:witch": true
+			"minecraft:cod": false
+			"creeperoverhaul:desert_creeper": true
+			"minecraft:wolf": true
+			"minecraft:chicken": true
+			"minecraft:dolphin": true
+			"creeperoverhaul:swamp_creeper": true
+			"minecraft:skeleton": true
+			"minecraft:tropical_fish": false
+			"creeperoverhaul:savannah_creeper": true
+			"creeperoverhaul:badlands_creeper": true
+			"minecraft:spider": true
+			"minecraft:parrot": true
+			"minecraft:donkey": true
+			"creeperoverhaul:ocean_creeper": true
+			"minecraft:glow_squid": true
+			"minecraft:rabbit": true
+			"minecraft:creeper": true
+			"minecraft:bogged": true
+			"creeperoverhaul:jungle_creeper": true
+			"minecraft:phantom": true
+			"minecraft:bee": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

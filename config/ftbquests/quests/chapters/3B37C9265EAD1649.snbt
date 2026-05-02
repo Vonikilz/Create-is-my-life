@@ -1,0 +1,291 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3B37C9265EAD1649"
+	group: "055E63D87E4A9F5B"
+	icon: {
+		id: "minecraft:copper_ingot"
+	}
+	id: "3B37C9265EAD1649"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2BB8B6232D6654DD"]
+			id: "737027E87337C523"
+			tasks: [{
+				id: "39C276D3B5C0F096"
+				item: { count: 1, id: "create:copper_casing" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "77D50EA5DE4BBD2C"
+			tasks: [{
+				id: "6A584D8F78226BFA"
+				item: { count: 1, id: "minecraft:brush" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "45A4A5F39095E607"
+			tasks: [{
+				id: "278D4D17073BF160"
+				item: { count: 1, id: "minecraft:lightning_rod" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "03C20703493A6B3B"
+			tasks: [{
+				id: "2B548150331B7C2A"
+				item: { count: 1, id: "create:fluid_pipe" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "06870F79195DF118"
+			tasks: [{
+				id: "6140E14523B3B92A"
+				item: { count: 1, id: "create:item_drain" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["06870F79195DF118"]
+			id: "5F8DD675819A4351"
+			tasks: [{
+				id: "676DA8C428D7AA3B"
+				item: { count: 1, id: "create_dragons_plus:fluid_hatch" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "5242663FFB1950AE"
+			tasks: [{
+				id: "3BC37AD1F1CB5A45"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "04D13797267FE5EB"
+			tasks: [{
+				id: "73AD9A31FF7E0FA4"
+				item: { count: 1, id: "tfmg:copper_cable_hub" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "720E81FA72EE72F9"
+			tasks: [{
+				id: "795A96D9274ED539"
+				item: { count: 1, id: "create:hose_pulley" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "39D17DFAC98C8168"
+			tasks: [{
+				id: "5740C3FD46E6604C"
+				item: { count: 1, id: "createcasing:copper_portable_storage_interface" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "574E33B259DB75BC"
+			tasks: [{
+				id: "5978272096E75527"
+				item: { count: 1, id: "create:spout" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "1488F7FEC6E025CC"
+			tasks: [{
+				id: "1761E343C764DBC1"
+				item: { count: 1, id: "create_enchantment_industry:experience_lantern" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03C20703493A6B3B"]
+			id: "7939E10C0768C7C0"
+			tasks: [{
+				id: "721AC3DB6B7C60FA"
+				item: { count: 1, id: "create:fluid_valve" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["03C20703493A6B3B"]
+			id: "1D52D01E4F15141B"
+			tasks: [{
+				id: "2FD84D8628A45D56"
+				item: { count: 1, id: "sliceanddice:sprinkler" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["03C20703493A6B3B"]
+			id: "607B0A337FCB32E1"
+			tasks: [{
+				id: "742630D8622C71D6"
+				item: { count: 1, id: "create:mechanical_pump" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5242663FFB1950AE"]
+			id: "59C4FBA4F2C96AAC"
+			tasks: [{
+				id: "6753AD5D897628B1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:small_filling_tank)item(create_sa:medium_filling_tank)item(create_sa:large_filling_tank))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "0E90C05C87C906D9"
+			tasks: [{
+				id: "5603C6E5D148CF45"
+				item: { count: 1, id: "create:copper_sheet" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			icon: {
+				id: "create:copper_diving_helmet"
+			}
+			id: "45B016DB3D7F3B7D"
+			tasks: [
+				{
+					id: "4580E9ACC467FE32"
+					item: { count: 1, id: "create:copper_diving_helmet" }
+					type: "item"
+				}
+				{
+					id: "6CFFDD00F9E25E02"
+					item: { components: { "create:banktank_air": 900 }, count: 1, id: "create:copper_backtank" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"45B016DB3D7F3B7D"
+				"733EB8B062340EF9"
+			]
+			id: "26EC3592310CA8EF"
+			tasks: [{
+				id: "22120D90B0EA4895"
+				item: { count: 1, id: "createfisheryindustry:copper_diving_leggings" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["45B016DB3D7F3B7D"]
+			id: "14A241E30424A627"
+			tasks: [{
+				id: "76BF4ACF29FC728F"
+				item: { count: 1, id: "create:copper_diving_boots" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "77ABC3340D2D7441"
+			tasks: [{
+				id: "7700F34DD316253D"
+				item: { count: 1, id: "create:steam_engine" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "35393A1722118249"
+			tasks: [{
+				id: "403D71D46B155CB2"
+				item: { count: 1, id: "aeronautics:steam_vent" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "3F4C01255CD51A46"
+			tasks: [{
+				id: "0A1A9247433EDA72"
+				item: { count: 1, id: "create:steam_whistle" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["737027E87337C523"]
+			id: "663CFBA0A2CA4A37"
+			tasks: [{
+				id: "32DA5F1FB3D372BD"
+				item: { count: 1, id: "create_dragons_plus:fragile_fluid_tank" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -4.0d
+		}
+	]
+}

@@ -1,15 +1,32 @@
 {
+	chapter.022F2D67F396814D.title: "Железный век!"
+	chapter.04782578A99BAA6E.title: "Андезитовый век!"
 	chapter.08D9662036FBE722.title: "&aПриветствие&r"
-	chapter.349CBECDB9D24DEC.title: "&#3CFF6CЛёгкое&r"
-	chapter.41540865BF55722F.title: "&#FF183BТяжёлое&r"
-	chapter.70769147E2A10F05.title: "&#FF5E0BСреднее&r"
-	chapter_group.65334D6C64FB8B33.title: "&6Производство&r"
+	chapter.1B25A6DFF5FCED8D.title: "Аметистовый век!"
+	chapter.2A67C8B8C77FCF8F.title: "Начало"
+	chapter.2BE7C58A9F2A5DEA.title: "Лазуритовый век!"
+	chapter.3B37C9265EAD1649.title: "Медный век!"
+	chapter.3F12894FD057805E.title: "Начало"
+	chapter.4E370CA2CE005E1E.title: "Начало"
+	chapter.4EA2133074B7435E.title: "Золотой век!"
+	chapter.51532F3329E38B0C.title: "Красно-каменный век!"
+	chapter.52B83C7F91CE34C7.title: "Алмазный век!"
+	chapter.5E5E33C0696F4E48.title: "Цинковый век!"
+	chapter.68EAFC6B3634A8E1.title: "Угольный век!"
+	chapter_group.055E63D87E4A9F5B.title: "Обычный мир"
+	chapter_group.24B574849E1A6D6A.title: "Энд"
+	chapter_group.62FF445200752705.title: "Незер"
 	file.0000000000000001.title: "Create"
 	quest.04E5BEAD5B454AD9.title: "Производство огненного порошка"
+	quest.06DC540F1C3F338A.title: "Никельевый век!"
+	quest.076EDCA007093294.title: "Алмазный век!"
+	quest.097F79C060D12AAA.title: "Цинковый век!"
 	quest.0A47F7E5CD8E7D2F.quest_desc: ["Генератор пепела можно получить при столкновении шоколада с лавой"]
 	quest.0A47F7E5CD8E7D2F.title: "Производство коксового угля"
+	quest.0BBE20093231A332.title: "Литиевый век!"
 	quest.1240C0502FCE6D34.quest_desc: ["Можно промывать гравий, а можно фармить големов"]
 	quest.1240C0502FCE6D34.title: "Производство железа"
+	quest.12F8C43CAB764ACB.title: "Красно-каменный век!"
 	quest.1BC654375B2E8350.quest_desc: ["Из зелья ночного зрения или фермы ведьм"]
 	quest.1BC654375B2E8350.title: "Производство светокамня"
 	quest.1E712E8A590D7933.title: "&#15F0FFМой ТКГ&r"
@@ -17,17 +34,26 @@
 	quest.1F92D5AC19A209B7.quest_desc: ["Промойте песок душ"]
 	quest.1F92D5AC19A209B7.title: "Производство кварца"
 	quest.207E50E07EA72FAF.title: "Производство чугуна"
+	quest.21172CADA1F46C53.title: "Аметистовый век!"
+	quest.21C63481D6074C4C.title: "Золотой век!"
 	quest.2A475F88730DE356.quest_desc: ["Из зелья моментального урона или фермы криперов"]
 	quest.2A475F88730DE356.title: "Производство пороха"
+	quest.2AF44C11957198D5.title: "Незер"
+	quest.2BB8B6232D6654DD.title: "Железный век!"
 	quest.2EFD70CA10E0C68C.quest_desc: ["Приветствую всех на сборке Create is my life &6V1.0.0&r! Для обратной связи есть &bТКГ&r. &aУдачной игры!&r"]
 	quest.2EFD70CA10E0C68C.title: "Приветствие"
+	quest.2FC071F64B17EF69.title: "Энд"
 	quest.41A5FDF4F3C6680D.title: "Произфодство наростов"
 	quest.41E88B6ABE0D4000.quest_desc: ["Из зелья силы или фермы ведьм"]
 	quest.41E88B6ABE0D4000.title: "Производство редсоуна"
+	quest.486358237CBE4D34.title: "Без него никак нельзя"
 	quest.4917A05D5ADF19F6.quest_desc: ["Генератор булыжника + бур"]
 	quest.4917A05D5ADF19F6.title: "Производство булыжника"
+	quest.4C03847CCB13F618.title: "Лазуритовый век!"
 	quest.50B044A4AE0EF172.quest_desc: ["Используйте комбайн"]
 	quest.50B044A4AE0EF172.title: "Производство еды"
+	quest.54D64959FEA5992B.title: "Андезитовый век!"
+	quest.5594BEF9116935FB.title: "Начальные инструменты"
 	quest.608DD8D79C574EED.title: "Для квестов"
 	quest.6216DB74C22B27D4.quest_desc: ["Механическая пила это ключевой элемент фермы дерева"]
 	quest.6216DB74C22B27D4.title: "Производство дерева"
@@ -37,13 +63,18 @@
 	quest.6356BE86D8D827A2.title: "Производство угля"
 	quest.68622E8860F658CD.quest_desc: ["Передробите гравий"]
 	quest.68622E8860F658CD.title: "Производство песка"
+	quest.6985D0584AE555C7.title: "Угольный век!"
 	quest.6B34FA355BA94973.quest_desc: ["Промойте красный песок"]
 	quest.6B34FA355BA94973.title: "Производство золота"
+	quest.737027E87337C523.title: "Медный век!"
 	quest.76C34C04CCE03CAD.quest_desc: ["Передробите булыжник"]
 	quest.76C34C04CCE03CAD.title: "Производство гравия"
+	quest.781820DEE8D44BE5.title: "Свинцовый век!"
 	quest.7E28BA5472E36DCA.title: "Производство кремниего слитка"
 	reward.68DC65AEDEAD2297.title: "&#FFC21AVonikilz&r"
 	reward.6D63E5820ACBC3AD.title: "&#15F0FFТКГ CreateAll&r"
 	task.1185650643D0D752.title: "Уголь"
 	task.2C40B5C11EC6386C.title: "Дерево"
+	task.529F1FF3C0C19CAC.title: "Посетите Энд"
+	task.76DB7DE7E741EA7A.title: "Посетите Незер"
 }

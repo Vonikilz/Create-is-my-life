@@ -1,0 +1,113 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1B25A6DFF5FCED8D"
+	group: "055E63D87E4A9F5B"
+	icon: {
+		id: "minecraft:amethyst_shard"
+	}
+	id: "1B25A6DFF5FCED8D"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2BB8B6232D6654DD"]
+			id: "21172CADA1F46C53"
+			tasks: [{
+				id: "71C582E768D38E61"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21172CADA1F46C53"]
+			id: "599EE826F9779B49"
+			tasks: [{
+				id: "3BB5C5F95EF8C391"
+				item: { count: 1, id: "minecraft:calibrated_sculk_sensor" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21172CADA1F46C53"]
+			id: "4D118DB7426E95CD"
+			tasks: [{
+				id: "209993FE41EF238C"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21172CADA1F46C53"]
+			id: "58E8427FD6C54C8F"
+			tasks: [{
+				id: "74FE61910E4605B7"
+				item: { count: 1, id: "createoreexcavation:vein_atlas" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21172CADA1F46C53"]
+			id: "4D23569C9C95AE19"
+			tasks: [{
+				id: "15A54A55D8084F8F"
+				item: { count: 1, id: "simulated:laser_sensor" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["21172CADA1F46C53"]
+			id: "1425D83AEC937E5A"
+			tasks: [{
+				id: "3F811B391BDED792"
+				item: { count: 1, id: "waystones:warp_stone" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["21172CADA1F46C53"]
+			id: "690CB10621E390D9"
+			tasks: [{
+				id: "75C99DA1DB20D1CF"
+				item: { count: 1, id: "waystones:warp_dust" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1425D83AEC937E5A"]
+			id: "721E3EA62F38B039"
+			tasks: [{
+				id: "0DF21867C03B4062"
+				item: { components: { "ftbfiltersystem:filter": "or(item(waystones:waystone)item(waystones:mossy_waystone)item(waystones:sandy_waystone)item(waystones:orange_sharestone)item(waystones:magenta_sharestone)item(waystones:light_blue_sharestone)item(waystones:yellow_sharestone)item(waystones:lime_sharestone)item(waystones:pink_sharestone)item(waystones:gray_sharestone)item(waystones:light_gray_sharestone)item(waystones:cyan_sharestone)item(waystones:purple_sharestone)item(waystones:blue_sharestone)item(waystones:brown_sharestone)item(waystones:green_sharestone)item(waystones:red_sharestone)item(waystones:black_sharestone)item(waystones:deepslate_waystone)item(waystones:blackstone_waystone)item(waystones:end_stone_waystone)item(waystones:white_portstone)item(waystones:orange_portstone)item(waystones:magenta_portstone)item(waystones:light_blue_portstone)item(waystones:yellow_portstone)item(waystones:lime_portstone)item(waystones:pink_portstone)item(waystones:gray_portstone)item(waystones:light_gray_portstone)item(waystones:cyan_portstone)item(waystones:purple_portstone)item(waystones:blue_portstone)item(waystones:brown_portstone)item(waystones:green_portstone)item(waystones:red_portstone)item(waystones:black_portstone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["690CB10621E390D9"]
+			id: "5FD4891A09CCB669"
+			tasks: [{
+				id: "5078B1D8FDADF316"
+				item: { count: 1, id: "waystones:warp_plate" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+	]
+}

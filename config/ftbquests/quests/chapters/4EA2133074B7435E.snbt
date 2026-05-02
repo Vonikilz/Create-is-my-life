@@ -1,0 +1,124 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4EA2133074B7435E"
+	group: "055E63D87E4A9F5B"
+	icon: {
+		id: "minecraft:gold_ingot"
+	}
+	id: "4EA2133074B7435E"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2BB8B6232D6654DD"]
+			id: "21C63481D6074C4C"
+			tasks: [{
+				id: "2EEA753E42ECFDED"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21C63481D6074C4C"]
+			id: "3EAF332D0026DD1E"
+			tasks: [{
+				id: "1E61067F2BB4F2B8"
+				item: { count: 1, id: "create:golden_sheet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3EAF332D0026DD1E"]
+			id: "56A4C583BAC879D9"
+			tasks: [{
+				id: "6991D603FC50CB18"
+				item: { count: 1, id: "createbigcannons:big_cartridge_sheet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["56A4C583BAC879D9"]
+			id: "502B8EC2B598132C"
+			tasks: [{
+				id: "1C2980793B14E015"
+				item: { components: { "createbigcannons:power": 0 }, count: 1, id: "createbigcannons:big_cartridge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3EAF332D0026DD1E"]
+			id: "1983B953F77FC880"
+			tasks: [{
+				id: "09BEE5267DDFE17C"
+				item: { count: 1, id: "create:wrench" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3EAF332D0026DD1E"]
+			id: "175AF3B1CD141C63"
+			tasks: [{
+				id: "052068A266602FB2"
+				item: { count: 1, id: "create:weighted_ejector" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3EAF332D0026DD1E"]
+			id: "3FA87C99937F1C55"
+			tasks: [{
+				id: "37284F80CAEDC798"
+				item: { count: 1, id: "create:goggles" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3EAF332D0026DD1E"]
+			id: "1C9EB99B4CCACF9A"
+			tasks: [{
+				id: "02AECA7A55F44B3D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:white_toolbox)item(create:orange_toolbox)item(create:magenta_toolbox)item(create:light_blue_toolbox)item(create:yellow_toolbox)item(create:lime_toolbox)item(create:pink_toolbox)item(create:gray_toolbox)item(create:light_gray_toolbox)item(create:cyan_toolbox)item(create:purple_toolbox)item(create:blue_toolbox)item(create:brown_toolbox)item(create:green_toolbox)item(create:red_toolbox)item(create:black_toolbox))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3EAF332D0026DD1E"]
+			id: "574EF48ACE450478"
+			tasks: [{
+				id: "5F8DB61DC05F2C28"
+				item: { count: 1, id: "create:desk_bell" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3FA87C99937F1C55"]
+			id: "17A25C21531F5BD8"
+			tasks: [{
+				id: "665D59B4260F944A"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+	]
+}

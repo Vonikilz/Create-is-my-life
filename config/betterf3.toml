@@ -69,15 +69,15 @@ general = {disable_mod = false, hide_bossbar = true, shadow_text = true, auto_st
 	name = "location"
 	name_color = 43520
 	value_color = 5636095
-	lines = {light = false, biome = true, rotation = false, facing = false, slime_chunk = true, local_difficulty = true, day_ticks = false, days_played = true, dimension = false, highest_block = false, highest_block_server = false, light_server = false}
+	lines = {light = false, biome = true, rotation = true, facing = true, slime_chunk = true, local_difficulty = true, day_ticks = false, days_played = true, dimension = true, highest_block = false, highest_block_server = false, light_server = false}
 	enabled = true
 [[modules_left]]
 	name = "entity"
 	name_color = 16733525
 	value_color = 16777045
 	total_entities_color = 16755200
-	lines = {entities = true, water_creature = true, underground_water_creature = true, ambient = true, particles = true, axolotls = true, creature = true, water_ambient = true, monster = true, misc = true}
-	enabled = false
+	lines = {entities = true, water_creature = false, underground_water_creature = false, ambient = false, particles = true, axolotls = false, creature = false, water_ambient = false, monster = false, misc = false}
+	enabled = true
 [[modules_left]]
 	maximum_color = 43690
 	name = "sound"

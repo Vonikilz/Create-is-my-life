@@ -1,0 +1,36 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2BE7C58A9F2A5DEA"
+	group: "055E63D87E4A9F5B"
+	icon: {
+		id: "minecraft:lapis_lazuli"
+	}
+	id: "2BE7C58A9F2A5DEA"
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4C03847CCB13F618"]
+			id: "22E0BFE9C8EE5ABF"
+			tasks: [{
+				id: "1ABA7C3B7E3DB760"
+				item: { count: 1, id: "create_enchantment_industry:experience_cake" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5594BEF9116935FB"]
+			id: "4C03847CCB13F618"
+			tasks: [{
+				id: "056C9589DA3CDD62"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+	]
+}

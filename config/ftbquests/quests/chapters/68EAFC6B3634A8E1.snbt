@@ -1,0 +1,113 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "68EAFC6B3634A8E1"
+	group: "055E63D87E4A9F5B"
+	icon: {
+		id: "minecraft:coal"
+	}
+	id: "68EAFC6B3634A8E1"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6985D0584AE555C7"]
+			id: "67ABFBA37D27797D"
+			tasks: [{
+				id: "2159D33DAD4E4F16"
+				item: { count: 1, id: "minecraft:torch" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6985D0584AE555C7"]
+			id: "4F09A6EDEA80E62A"
+			tasks: [{
+				id: "1F30FF609E86B91A"
+				item: { count: 1, id: "minecraft:soul_torch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6985D0584AE555C7"]
+			id: "4E9054DCEA1D4047"
+			tasks: [{
+				id: "49486C8EF7F076A2"
+				item: { count: 1, id: "minecraft:campfire" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6985D0584AE555C7"]
+			id: "4681488829B82EB8"
+			tasks: [{
+				id: "798F9B1D5DF0896F"
+				item: { count: 1, id: "minecraft:fire_charge" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5594BEF9116935FB"]
+			id: "6985D0584AE555C7"
+			tasks: [{
+				id: "547B17EBDE04BAA1"
+				item: { count: 1, id: "minecraft:coal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67ABFBA37D27797D"]
+			id: "15704B91FFE53709"
+			tasks: [{
+				id: "12A40ADF1E316589"
+				item: { count: 1, id: "minecraft:jack_o_lantern" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["67ABFBA37D27797D"]
+			id: "591B8C18DD8C9940"
+			tasks: [{
+				id: "2845865DFD4385EC"
+				item: { count: 1, id: "minecraft:lantern" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4F09A6EDEA80E62A"]
+			id: "104E5E8F60F4D5D0"
+			tasks: [{
+				id: "16512A9F47E787CC"
+				item: { count: 1, id: "minecraft:soul_lantern" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4E9054DCEA1D4047"]
+			id: "6A86E06821CD9214"
+			tasks: [{
+				id: "2DFDBA0D896FAA7A"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3F12894FD057805E"
+	group: "24B574849E1A6D6A"
+	icon: {
+		id: "minecraft:end_stone"
+	}
+	id: "3F12894FD057805E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "2FC071F64B17EF69"
+		tasks: [{
+			dimension: "minecraft:the_end"
+			icon: {
+				id: "minecraft:end_stone"
+			}
+			id: "529F1FF3C0C19CAC"
+			type: "dimension"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

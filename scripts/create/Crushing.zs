@@ -78,7 +78,6 @@ addCreateCrushing("minecraft:clock","minecraft:redstone",1,300);
     "processing_time": 200,
     "results": [
         {"count": 1, "chance": 0.525, "id": "minecraft:amethyst_shard"},
-        {"count": 1, "chance": 0.16, "id": "tfmg:bauxite_powder"},
         {"count": 1, "chance": 0.09, "id": "minecraft:bone_meal"}
     ]
 });

@@ -72,11 +72,10 @@
     "entity": true,
     "entity_variant": true
   },
-  "jadeaddons.lootr": {
-    "info": true
-  },
-  "ftbquests": {
-    "barrier": true
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -89,11 +88,13 @@
     "block_properties": false,
     "mod_name": true
   },
-  "waystones": {
-    "waystone": true
+  "toms_peripherals": {
+    "modem_info": true,
+    "full_modem_info": true,
+    "wdt_info": true
   },
-  "gravestone": {
-    "grave": true
+  "corpse": {
+    "corpse": true
   },
   "balm": {
     "jade": true

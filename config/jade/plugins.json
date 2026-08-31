@@ -88,6 +88,9 @@
     "block_properties": false,
     "mod_name": true
   },
+  "waystones": {
+    "waystone": true
+  },
   "toms_peripherals": {
     "modem_info": true,
     "full_modem_info": true,

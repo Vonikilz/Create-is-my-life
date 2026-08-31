@@ -1,0 +1,93 @@
+["General Settings"]
+	#Enable or disable chat announcements from the mod.
+	enableChatAnnouncements = false
+	#Enable or disable debug logging from the mod. Disable this if the mod spams the console.
+	enableDebugLogging = false
+	#Enable or disable day-based mob health scaling. If false, mobs keep their normal health, but gear and armor features still work.
+	enableHealthScaling = true
+
+["Health Multiplier Settings"]
+	#Base health multiplier for enemies. Only used when enableHealthScaling is true.
+	# Default: 1.0
+	# Range: 0.1 ~ 100.0
+	baseHealthMultiplier = 1.0
+	#Maximum health multiplier for enemies. Only used when enableHealthScaling is true.
+	# Default: 2.0
+	# Range: 0.1 ~ 10.0
+	maxHealthMultiplier = 2.0
+	#Increment to increase health multiplier after reaching certain amount of days. Only used when enableHealthScaling is true.
+	# Default: 0.2
+	# Range: 0.1 ~ 10.0
+	healthMultiplierIncrement = 0.1
+	#How many in-game days it takes for the health multiplier to increment. Only used when enableHealthScaling is true.
+	# Default: 24
+	# Range: 1 ~ 100
+	daysPerIncrement = 10
+
+["Gear Spawn Chances"]
+	#List of armor mobs can spawn with near the surface.
+	surfaceArmor = ["minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots", "minecraft:leather_helmet", "minecraft:leather_chestplate", "minecraft:leather_leggings", "minecraft:leather_boots", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "create:cardboard_helmet", "create:cardboard_chestplate", "create:cardboard_leggings", "create:cardboard_boots", "create_sa:zinc_helmet", "create_sa:zinc_chestplate", "create_sa:zinc_leggings", "create_sa:zinc_boots", "create_sa:copper_helmet", "create_sa:copper_chestplate", "create_sa:copper_leggings", "create_sa:copper_boots", "create:copper_diving_helmet", "create_sa:slime_helmet", "create_sa:slime_boots", "create:copper_diving_boots", "create:copper_backtank", "minecraft:golden_helmet", "minecraft:golden_chestplate", "minecraft:golden_leggings", "minecraft:golden_boots"]
+	#List of weapons mobs can spawn with near the surface.
+	surfaceWeapons = ["minecraft:stone_sword", "minecraft:iron_sword", "create_sa:experience_sword", "create_sa:copper_sword", "create_sa:zinc_sword", "minecraft:wooden_sword", "minecraft:golden_sword", "create_sa:brass_sword", "create_sa:rose_quartz_sword", "create_sa:blazing_cleaver", "minecraft:wooden_axe", "minecraft:golden_axe", "create_sa:copper_axe", "create_sa:experience_axe"]
+	#List of armor mobs can spawn with in caves.
+	caveArmor = ["minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "create_sa:zinc_helmet", "create_sa:zinc_chestplate", "create_sa:zinc_leggings", "create_sa:zinc_boots", "create_sa:brass_helmet", "create_sa:brass_chestplate", "create_sa:brass_leggings", "create_sa:brass_boots", "create_sa:copper_helmet", "create_sa:copper_chestplate", "create_sa:copper_leggings", "create_sa:copper_boots"]
+	#List of weapons mobs can spawn with in caves.
+	caveWeapons = ["minecraft:stone_sword", "minecraft:iron_sword", "create_sa:brass_sword", "create_sa:blazing_cleaver", "minecraft:wooden_axe", "minecraft:golden_axe", "create_sa:copper_axe", "create_sa:zinc_axe", "create_sa:brass_axe", "create_sa:blazing_axe", "minecraft:iron_axe", "minecraft:stone_axe", "create_sa:experience_axe"]
+	#List of armor mobs can spawn with in deep caves.
+	deepCaveArmor = ["minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "create_sa:zinc_helmet", "create_sa:zinc_chestplate", "create_sa:zinc_leggings", "create_sa:zinc_boots", "create_sa:brass_helmet", "create_sa:brass_chestplate", "create_sa:brass_leggings", "create_sa:brass_boots", "minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots"]
+	#List of weapons mobs can spawn with in deep caves.
+	deepCaveWeapons = ["minecraft:iron_sword", "create_sa:brass_sword", "create_sa:rose_quartz_sword", "create_sa:blazing_cleaver", "minecraft:diamond_sword", "create_sa:brass_axe", "create_sa:rose_quartz_axe", "create_sa:blazing_axe", "minecraft:diamond_axe", "minecraft:iron_axe"]
+	#Chance for mobs to spawn with gear in EASY mode.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	easyGearChance = 0.05
+	#Chance for mobs to spawn with gear in NORMAL mode.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	normalGearChance = 0.15
+	#Chance for mobs to spawn with gear in HARD mode.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	hardGearChance = 0.3
+	#Full armor sets near surface. Accepts either a String "[mod:helmet, mod:chest, mod:legs, mod:boots, 25]" or a list ["mod:helmet","mod:chest","mod:legs","mod:boots",25]. Percent: 25->25%, 0.5->0.5%.
+	surfaceArmorSets = ["[create:cardboard_helmet, create:cardboard_chestplate, create:cardboard_leggings, create:cardboard_boots, 5]", "[minecraft:leather_helmet, minecraft:leather_chestplate, minecraft:leather_leggings, minecraft:leather_boots, 3]", "[minecraft:golden_helmet, minecraft:golden_chestplate, minecraft:golden_leggings, minecraft:golden_boots, 1]"]
+	#Full armor sets in caves. Same formats as surfaceArmorSets.
+	caveArmorSets = ["[minecraft:chainmail_helmet, minecraft:chainmail_chestplate, minecraft:chainmail_leggings, minecraft:chainmail_boots, 1]", "[minecraft:iron_helmet, minecraft:iron_chestplate, minecraft:iron_leggings, minecraft:iron_boots, 1]", "[create_sa:zinc_helmet, create_sa:zinc_chestplate, create_sa:zinc_leggings, create_sa:zinc_boots, 2]", "[create_sa:copper_helmet, create_sa:copper_chestplate, create_sa:copper_leggings, create_sa:copper_boots, 2]"]
+	#Full armor sets in deep caves. Same formats as surfaceArmorSets.
+	deepCaveArmorSets = ["[minecraft:diamond_helmet, minecraft:diamond_chestplate, minecraft:diamond_leggings, minecraft:diamond_boots, 1]", "[create_sa:brass_helmet, create_sa:brass_chestplate, create_sa:brass_leggings, create_sa:brass_boots, 2]"]
+
+["Equipment Settings"]
+	#Chance for mob to get a weapon.
+	# Default: 0.18
+	# Range: 0.0 ~ 1.0
+	weaponChance = 0.2
+	#Chance for item to receive 1 enchantment. (0.35 = 35%)
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	enchantCountLevel1 = 0.3
+	#Chance for item to receive 2 enchantments. (0.15 = 15%)
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	enchantCountLevel2 = 0.15
+	#Chance for item to receive 3 enchantments. (0.05 = 5%)
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	enchantCountLevel3 = 0.05
+	#Enchantments available for bows.
+	availableBowEnchantments = ["minecraft:power", "minecraft:infinity", "minecraft:flame", "minecraft:punch"]
+	#Enchantments available for melee weapons.
+	availableWeaponEnchantments = ["minecraft:sharpness", "minecraft:smite", "minecraft:fire_aspect", "minecraft:unbreaking", "minecraft:knockback", "apotheosis:deep_wounds"]
+	#Enchantments available for armor.
+	availableArmorEnchantments = ["minecraft:protection", "minecraft:unbreaking", "minecraft:fire_protection", "minecraft:projectile_protection"]
+
+["Creeper Speed Settings"]
+	#Multiplier to increase Creeper movement speed.
+	# Default: 1.4
+	# Range: 1.0 ~ 5.0
+	creeperSpeedMultiplier = 1.25
+
+["Spider Speed Settings"]
+	#Multiplier to increase Spider movement speed.
+	# Default: 1.25
+	# Range: 1.0 ~ 5.0
+	spiderSpeedMultiplier = 1.2

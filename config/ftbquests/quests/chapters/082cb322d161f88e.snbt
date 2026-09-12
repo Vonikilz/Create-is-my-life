@@ -1,0 +1,62 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "082cb322d161f88e"
+	group: ""
+	icon: {
+		id: "minecraft:oak_leaves"
+	}
+	id: "082CB322D161F88E"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:crafter"
+			}
+			id: "1C73D8AC7C098F71"
+			rewards: [{
+				count: 64
+				id: "5DE495B4A3B8AFEA"
+				item: {
+					count: 1
+					id: "minecraft:andesite"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "78AED216A42C56C8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "morered:item/placeholder"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2279C2AAAE82E1EA"
+			rewards: [{
+				id: "58DB69752C16F4E2"
+				item: {
+					count: 1
+					id: "create:experience_block"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "476A2742C906C31A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+}

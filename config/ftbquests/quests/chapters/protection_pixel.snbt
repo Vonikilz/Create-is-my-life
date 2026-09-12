@@ -1,0 +1,76 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "protection_pixel"
+	group: "120078CB61A704FD"
+	icon: {
+		components: {
+			"ftbquests:icon": "protection_pixel:textures/agcsxowb.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "1A78A2242743379F"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "114F079FEC5D4A58"
+			tasks: [{
+				id: "4966C99325C94905"
+				item: { count: 1, id: "protection_pixel:armorloadplatform" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["114F079FEC5D4A58"]
+			icon: {
+				id: "protection_pixel:powerengine"
+			}
+			id: "23E057ABE1650628"
+			tasks: [
+				{
+					id: "7BEC44B8E08AEA18"
+					item: { count: 1, id: "protection_pixel:powerengine" }
+					type: "item"
+				}
+				{
+					id: "25A94984486FB19B"
+					item: { count: 1, id: "protection_pixel:flarerod" }
+					type: "item"
+				}
+				{
+					id: "5D6DFAE32188D0B6"
+					item: { count: 1, id: "protection_pixel:watertank" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["114F079FEC5D4A58"]
+			id: "4F70139476C9E296"
+			tasks: [{
+				id: "0DB8A8E53B9E3EB5"
+				item: { components: { "minecraft:custom_data": { updatenum: 0.0d } }, count: 1, id: "protection_pixel:steamectoskeleton" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["114F079FEC5D4A58"]
+			id: "21732757820AA846"
+			tasks: [{
+				id: "277307750668B7F0"
+				item: { components: { "minecraft:custom_data": { basicdurable: 0.0d, platearmor: 4.0d, platetoughness: 2.0d, s1: 0.0d, s2: 0.0d, slot1: "protection_pixel:alloyarmorplate", slot2: "protection_pixel:alloyarmorplate", weight: 3.0d } }, count: 1, id: "protection_pixel:socks_boots" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+	]
+}

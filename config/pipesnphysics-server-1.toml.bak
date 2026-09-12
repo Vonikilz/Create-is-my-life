@@ -52,6 +52,22 @@
 		#pipe-scan cache. Turn off only to rule caching out while debugging odd network
 		#behavior.
 		enableNetworkCache = true
+		#Drive pumps from OTHER mods with the hydraulic engine — an electric pump, a
+		#centrifugal one, anything that pumps through Create's pipes. Such a pump states
+		#how hard it pushes as pipe PRESSURE (the currency Create's own transport runs on,
+		#and the same scale as a Mechanical Pump's RPM), so the engine reads that and gives
+		#it head and throughput like any pump. A pump that extends Create's own is always
+		#recognized; anything else has to be named by the block tag pipesnphysics:pumps or
+		#registered through the mod's API. Off = they act as plain pipe again (fluid passes
+		#through them, but they add no head).
+		enableForeignPumps = true
+		#Scales how strong another mod's pump is, on top of the pressure it publishes.
+		#1.0 keeps whatever that mod intended relative to a Mechanical Pump — a pump that
+		#pushes twice Create's pressure lifts twice as high here. Lower it to rein in an
+		#addon pump that dwarfs the rest of your plumbing.
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		foreignPumpStrengthScale = 1.0
 
 	#The numeric tuning of the hydraulics — how fast, how much, and how high
 	#fluid moves. These set the feel of every network.

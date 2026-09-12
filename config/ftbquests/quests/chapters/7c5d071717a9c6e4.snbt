@@ -1,0 +1,95 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7c5d071717a9c6e4"
+	group: "02CE339C8441EC4A"
+	icon: {
+		id: "farmersdelight:apple_cider"
+	}
+	id: "7C5D071717A9C6E4"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5C4F4285C939CF9A"
+			tasks: [{
+				id: "5FBE0BDEC2C893FF"
+				item: { count: 1, id: "create:creative_blaze_cake" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "50B1F05C36878511"
+			tasks: [{
+				id: "5772D88CDB6FE305"
+				item: { count: 1, id: "majruszsdifficulty:angler_treasure_bag" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "7860D8B3609D3417"
+			tasks: [{
+				id: "77D3C741583A0F06"
+				item: { count: 1, id: "majruszsdifficulty:elder_guardian_treasure_bag" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "16CA7A70014F8742"
+			tasks: [{
+				id: "106302C06BA05BAE"
+				item: { count: 1, id: "majruszsdifficulty:ender_dragon_treasure_bag" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "1CDBD95D3A6DAA99"
+			tasks: [{
+				id: "77437580F0DC44EC"
+				item: { count: 1, id: "majruszsdifficulty:pillager_treasure_bag" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "30B29C92FD8BB3DE"
+			tasks: [{
+				id: "032BA811F5E0F350"
+				item: { count: 1, id: "majruszsdifficulty:undead_army_treasure_bag" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "3269104E562B769B"
+			tasks: [{
+				id: "60371B77B387A2F0"
+				item: { count: 1, id: "majruszsdifficulty:warden_treasure_bag" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "05469AA65A40C2AE"
+			tasks: [{
+				id: "352827BC4AB30B50"
+				item: { count: 1, id: "majruszsdifficulty:wither_treasure_bag" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+	]
+}

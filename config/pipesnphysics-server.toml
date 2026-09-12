@@ -141,6 +141,16 @@
 		# Default: 1000
 		# Range: 0 ~ 100000
 		moltenTemperatureKelvin = 1000
+		#Let one pipe network carry MORE THAN ONE fluid instead of breaking.
+		#Off (Create's own rule): two fluids driven or pressed together destroy the
+		#pipe block, and water + lava leave cobblestone. On: they simply stop where
+		#they meet, so a run may stand full of one fluid at one end and another at the
+		#other, and a tank of the wrong fluid beside a full pipe does nothing.
+		#This does NOT mix them: a pipe block still holds one fluid at a time, and a
+		#run still carries one fluid at a time, so the second waits its turn behind the
+		#first like batches in a real multi-product pipeline. What changes is that
+		#sharing plumbing stops being destructive.
+		allowMixedPipeFluids = false
 
 	#The Mechanical Pump run BACKWARDS: dial a pump to TURBINE and fluid
 	#falling through it turns it into a Create generator instead of a

@@ -14,3 +14,25 @@
         ]
     }
 );
+//Палочка блейза
+<recipetype:create:mixing>.addJsonRecipe("blaze_rod", {
+    type: "create:mixing", 
+    processing_time: 250, 
+    results: [{
+        id: "minecraft:blaze_rod", 
+        count: 1
+        }], 
+        ingredients: [
+            {item: "createaddition:brass_rod"}, 
+            {item: "minecraft:blaze_powder"},
+            {item: "minecraft:blaze_powder"},
+            {item: "minecraft:blaze_powder"},
+            {item: "minecraft:blaze_powder"}
+        ]
+    }
+);
+//Порох
+craftingTable.removeByName("tacz:gunpowder");
+craftingTable.addShapeless("gunpowder",<item:minecraft:gunpowder>,[
+   <item:cgs:charcoal_dust>, <item:minecraft:sugar>
+]);

@@ -1,0 +1,118 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gunsmithing"
+	group: "79889B91BD165A20"
+	icon: {
+		components: {
+			"ntgl:ammo_count": 6
+			"ntgl:attachments": {
+				"cgs:head": {
+					count: 1
+					id: "cgs:hammer_netherite"
+				}
+				"ntgl:magazine": {
+					count: 1
+					id: "cgs:hammer_chamber"
+				}
+			}
+		}
+		id: "cgs:hammer"
+	}
+	id: "71156B248E58C4BC"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5CFC422FF4AF079B"
+			tasks: [{
+				id: "4B9BF5556412FBA1"
+				item: { components: { "ntgl:ammo_count": 1 }, count: 1, id: "cgs:flintlock" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "5D054D2DAF467F49"
+			tasks: [{
+				id: "5D2005AF65E8B74D"
+				item: { components: { "ntgl:ammo_count": 6 }, count: 1, id: "cgs:revolver" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "27FC0E2FE2ED85F6"
+			tasks: [{
+				id: "76241FDAF3E6B085"
+				item: { components: { "ntgl:ammo_count": 2 }, count: 1, id: "cgs:shotgun" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "3638A712EA312913"
+			tasks: [{
+				id: "299AB81C2EB5A418"
+				item: { components: { "ntgl:ammo_count": 40 }, count: 1, id: "cgs:nailgun" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "0494990FDA15FEC3"
+			tasks: [{
+				id: "06EA52ADED7D27C2"
+				item: { components: { "ntgl:ammo_count": 100 }, count: 1, id: "cgs:gatling" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "03395DEF1BE858CA"
+			tasks: [{
+				id: "6C61488804B7D481"
+				item: { components: { "ntgl:ammo_count": 20000 }, count: 1, id: "cgs:blazegun" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "57ABA2B5A8F187C5"
+			tasks: [{
+				id: "68B562C916F7FE2D"
+				item: { components: { "ntgl:ammo_count": 4 }, count: 1, id: "cgs:launcher" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "4F8C592562329BD2"
+			tasks: [{
+				id: "58F1B3E7635A074B"
+				item: { components: { "ntgl:ammo_count": 900 }, count: 1, id: "cgs:hammer" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "46207C94A95FF75D"
+			tasks: [{
+				id: "1F103A3FD8F9DFD8"
+				item: { components: { "ntgl:ammo_count": 0 }, count: 1, id: "cgs:frag_grenade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+	]
+}

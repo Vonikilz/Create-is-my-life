@@ -1,0 +1,115 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "easy_villagers"
+	group: "02CE339C8441EC4A"
+	hide_quest_until_deps_complete: true
+	icon: {
+		components: {
+			"easy_villagers:villager": { }
+		}
+		id: "easy_villagers:villager"
+	}
+	id: "45D59F46855ACFD2"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1C73D8AC7C098F71"]
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			id: "54E9B994F27D7D17"
+			tasks: [{
+				id: "3993EA9FE66ECD24"
+				item: { components: { "easy_villagers:villager": { } }, count: 1, id: "easy_villagers:villager" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54E9B994F27D7D17"]
+			hide_until_deps_complete: true
+			id: "04558B0A6CDD8081"
+			tasks: [{
+				id: "1CEF674AE655F933"
+				item: { count: 1, id: "easy_villagers:trader" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["04558B0A6CDD8081"]
+			id: "3FA7A7BA8E7BA64C"
+			tasks: [{
+				id: "4FE6955063654D0D"
+				item: { count: 1, id: "easy_villagers:auto_trader" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["54E9B994F27D7D17"]
+			hide_until_deps_complete: true
+			id: "74C910B2A182DA5C"
+			tasks: [{
+				id: "676A8CA1D4AC1E0B"
+				item: { count: 1, id: "easy_villagers:farmer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["54E9B994F27D7D17"]
+			hide_until_deps_complete: true
+			id: "420759777CAA5CFD"
+			tasks: [{
+				id: "3DB5A3B11D815D4F"
+				item: { count: 1, id: "easy_villagers:breeder" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54E9B994F27D7D17"]
+			hide_until_deps_complete: true
+			id: "25E8E3E4824F2571"
+			tasks: [{
+				id: "7294A9541CBDFAA4"
+				item: { count: 1, id: "easy_villagers:converter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["54E9B994F27D7D17"]
+			hide_until_deps_complete: true
+			id: "26067092B63EF478"
+			tasks: [{
+				id: "642E5BCA093D64D1"
+				item: { count: 1, id: "easy_villagers:iron_farm" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["420759777CAA5CFD"]
+			hide_until_deps_complete: true
+			id: "2AAC4AA18CAD2A0A"
+			tasks: [{
+				id: "2CEF28F0F96B1F7C"
+				item: { count: 1, id: "easy_villagers:incubator" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

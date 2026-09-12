@@ -1,0 +1,115 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tiny_mob_farm"
+	group: "02CE339C8441EC4A"
+	icon: {
+		id: "tinymobfarm:lasso"
+	}
+	id: "0D3210D78B3E827A"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			hide_text_until_complete: true
+			id: "43380CE166BCF610"
+			tasks: [{
+				id: "05CD585B59AA15C4"
+				item: { count: 1, id: "tinymobfarm:lasso" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43380CE166BCF610"]
+			hide_until_deps_complete: true
+			id: "0C6F6742F522BABD"
+			tasks: [{
+				id: "1C2EF3604E522988"
+				item: { count: 1, id: "tinymobfarm:wood_farm" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C6F6742F522BABD"]
+			id: "52F18FD85E9E6288"
+			tasks: [{
+				id: "30E927EF4737A78F"
+				item: { count: 1, id: "tinymobfarm:stone_farm" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52F18FD85E9E6288"]
+			id: "084D56090FA1589D"
+			tasks: [{
+				id: "448F3D1C218A6D68"
+				item: { count: 1, id: "tinymobfarm:iron_farm" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["084D56090FA1589D"]
+			id: "3D8FF7D83BBCD10E"
+			tasks: [{
+				id: "142914C88AC6C315"
+				item: { count: 1, id: "tinymobfarm:gold_farm" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3D8FF7D83BBCD10E"]
+			id: "15B7C4ED32618795"
+			tasks: [{
+				id: "65E35AB19C77685B"
+				item: { count: 1, id: "tinymobfarm:diamond_farm" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["15B7C4ED32618795"]
+			id: "37E25C20ACEBBC2F"
+			tasks: [{
+				id: "30952D9F5D90A733"
+				item: { count: 1, id: "tinymobfarm:emerald_farm" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["37E25C20ACEBBC2F"]
+			id: "3545B5CA5EFCDD74"
+			tasks: [{
+				id: "6FD0EC0F7DC02C0F"
+				item: { count: 1, id: "tinymobfarm:inferno_farm" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3545B5CA5EFCDD74"]
+			id: "2D63F93C21880348"
+			tasks: [{
+				id: "112A16CC2DD1373C"
+				item: { count: 1, id: "tinymobfarm:ultimate_farm" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+	]
+}

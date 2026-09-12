@@ -31,7 +31,7 @@ UUID = "97c77e55-46af-4180-b178-da1e686a70d7"
     WhiteListModEnable = true
     # #----------------------------------------------------------------------
     # Whether to show the startup security notice for mod id whitelist mode
-    ShowWhitelistModeNotice = true
+    ShowWhitelistModeNotice = false
     # #----------------------------------------------------------------------
     # Only mods listed here will be allowed to retain NBT. Enter the modid (e.g., for minecraft:dirt, enter minecraft)
     WhiteListModList = [

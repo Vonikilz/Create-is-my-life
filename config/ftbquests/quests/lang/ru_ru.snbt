@@ -1,0 +1,69 @@
+{
+	chapter.082CB322D161F88E.title: "&aПриветствие&r"
+	chapter.0D3210D78B3E827A.title: "Tiny Mob Farm"
+	chapter.1A78A2242743379F.title: "Protection Pixel"
+	chapter.45D59F46855ACFD2.title: "Easy Villagers"
+	chapter.684FB5D02800C96E.title: "TaCZ"
+	chapter.71156B248E58C4BC.title: "Gunsmithing"
+	chapter.7C5D071717A9C6E4.title: "Испытания"
+	chapter_group.02CE339C8441EC4A.title: "Интересное"
+	chapter_group.120078CB61A704FD.title: "Create"
+	chapter_group.79889B91BD165A20.title: "Вооружение"
+	file.0000000000000001.title: "Create is my Life"
+	quest.04558B0A6CDD8081.quest_desc: ["Требуется стол профессии для работы"]
+	quest.114F079FEC5D4A58.quest_desc: ["Интерфейс питания это слот куда кладётся двигатель, а интерфейс двигателя, это слот куда кладётся дополнительное снаряжение"]
+	quest.1C73D8AC7C098F71.quest_desc: [
+		"Приветствую на сборке &eCreate is my life&r &bV1.0.2&r. Как понятно из названия, основной мод в сборке это &6Create&r и его аддоны, а также мод &eTaCZ&r для интереса. Соответсвено я баффнул обычных мобов, чтобы подобное вооружение имело смысл. Как именно? Я просто сделал так, чтобы они &cизначально были сильнее&r, чем в ваниле, а заодно и сделал так, чтобы они становились сильнее со временем (лимит баффа х2 от базовых статов) и от вашего игрового прогресса (это будет сопровождатся сообщением в чате)."
+		"{@pagebreak}"
+		"Такая тонкая настройка мобов и сложности была реализована с помощью модов &6Majrusz's Progressive Difficulty&r и &cDangerous&r"
+	]
+	quest.1C73D8AC7C098F71.title: "Описание Сборки"
+	quest.1C8F837D6EEB37B3.title: "Гранаты, Медикаменты и Бита?"
+	quest.2279C2AAAE82E1EA.quest_desc: [
+		"- CC: Tweaked + &6Аддоны&r"
+		"- Create Aeronautics + &6Аддоны&r"
+		"- Create Big Cannons + &6Аддоны&r"
+		"- Create Crafts and Additions"
+		"- Create Encased"
+		"- Create Jetpack"
+		"- Create Ore Excavation Plus"
+		"- Create Stuff 'N Additions"
+		"- Create: Cardboard Things"
+		"- Create: Connected"
+		"- Create: Copycats + &6Аддоны&r"
+		"- Create: Cyber Goggles"
+		"- Create: Design n' Decor"
+		"- Create: Ender Transmission"
+		"- Create: Extra Gauges + &6Аддоны&r"
+		"- Create: Gunsmithing"
+		"- Create: Pipes'n physics"
+		"- Create: Power Loader"
+		"- Protection Pixel"
+		"- Sable + &6Аддоны&r"
+		"- TaCZ"
+		"- Traveler's Backpack"
+		"- Upgrade Aquatic"
+		"- Vista"
+		"- VS-Sable-HoseConnectors"
+		"- Waystones + &6Аддоны&r"
+	]
+	quest.2279C2AAAE82E1EA.title: "Краткий Список Модов"
+	quest.25E8E3E4824F2571.quest_desc: ["Превращает жителя в зомби-жителя"]
+	quest.26067092B63EF478.quest_desc: ["Требуется житель для работы"]
+	quest.2AAC4AA18CAD2A0A.quest_desc: ["Превращает жителей детей во взрослых"]
+	quest.30B29C92FD8BB3DE.quest_desc: ["Даётся за прохождение армии нежити"]
+	quest.420759777CAA5CFD.title: "Разведение"
+	quest.420C859976875766.title: "Пушек много не Бывает"
+	quest.43380CE166BCF610.quest_desc: ["Ловит мобов"]
+	quest.4D5FD0D200A323F9.title: "Обвесы это Круто"
+	quest.4F8C592562329BD2.quest_desc: ["Может быть как и топором, так и молотом"]
+	quest.50B1F05C36878511.quest_desc: ["Рыбалка теперь выгоднее"]
+	quest.54E9B994F27D7D17.quest_desc: ["Положить жителя в инвентарь?"]
+	quest.54E9B994F27D7D17.title: "Что?"
+	quest.5B373075EC241C27.title: "Нужно Много Патронов"
+	quest.5C4F4285C939CF9A.title: "Создайте его"
+	quest.74C910B2A182DA5C.quest_desc: ["Эффективность не очень"]
+	quest.74C910B2A182DA5C.title: "Авто-ферма"
+	task.476A2742C906C31A.title: "Прочитано"
+	task.78AED216A42C56C8.title: "Прочитано"
+}

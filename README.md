@@ -1,6 +1,9 @@
 Сборка модов для minecraft 1.21.1 NeoForge 21.1.229   
 
-Спсок модов:  
+Краткое описание:  
+Взрывы, пушки, технологии, и самое главное, это есть на чём применить!
+
+Полный список модов:  
 - Advanced Peripherals 0.7.62b (advancedperipherals)
 - aero_copycats 1.1.0 (aerocopycats)
 - AeronauticsCompat 1.1.3 (aeronauticscompat)

@@ -34,39 +34,39 @@
 	#.
 	#Smoke Settings
 	[client.smoke]
-		#.
-		#Smoke particle style
-		#Allowed Values: VANILLA, OLD, CARTOON
-		smokeType = "CARTOON"
+- #.
+- #Smoke particle style
+- #Allowed Values: VANILLA, OLD, CARTOON
+- smokeType = "CARTOON"
 
-		#.
-		#Old-style Smoke Settings
-		[client.smoke.old]
-			#.
-			#[in Ticks]
-			#Lifetime of smoke particles emitted by contraptions
-			# Default: 500
-			# Range: 20 ~ 1000
-			smokeLifetime = 500
-			#.
-			#Smoke emission rate on contraptions
-			# Default: 0.75
-			# Range: 0.0 ~ 10.0
-			smokePercentage = 0.75
-			#.
-			#Smoke texture quality
-			#Allowed Values: LOW, MEDIUM, HIGH, ULTRA
-			smokeQuality = "HIGH"
-			#.
-			#Thicker smoke (renders 2 extra layers per particle)
-			thickerSmoke = true
+- #.
+- #Old-style Smoke Settings
+- [client.smoke.old]
+- 	#.
+- 	#[in Ticks]
+- 	#Lifetime of smoke particles emitted by contraptions
+- 	# Default: 500
+- 	# Range: 20 ~ 1000
+- 	smokeLifetime = 500
+- 	#.
+- 	#Smoke emission rate on contraptions
+- 	# Default: 0.75
+- 	# Range: 0.0 ~ 10.0
+- 	smokePercentage = 0.75
+- 	#.
+- 	#Smoke texture quality
+- 	#Allowed Values: LOW, MEDIUM, HIGH, ULTRA
+- 	smokeQuality = "HIGH"
+- 	#.
+- 	#Thicker smoke (renders 2 extra layers per particle)
+- 	thickerSmoke = true
 
-		#.
-		#Cartoon-style Smoke Settings
-		[client.smoke.cartoon]
-			#.
-			#Spawn faster-rising small puffs of smoke on an interval
-			spawnFasterPuffs = true
-			#.
-			#Spawn steam on an interval
-			spawnSteam = false
+- #.
+- #Cartoon-style Smoke Settings
+- [client.smoke.cartoon]
+- 	#.
+- 	#Spawn faster-rising small puffs of smoke on an interval
+- 	spawnFasterPuffs = true
+- 	#.
+- 	#Spawn steam on an interval
+- 	spawnSteam = false

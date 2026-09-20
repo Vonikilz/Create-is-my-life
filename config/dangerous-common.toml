@@ -14,7 +14,7 @@
 	#Maximum health multiplier for enemies. Only used when enableHealthScaling is true.
 	# Default: 2.0
 	# Range: 0.1 ~ 10.0
-	maxHealthMultiplier = 2.0
+	maxHealthMultiplier = 1.5
 	#Increment to increase health multiplier after reaching certain amount of days. Only used when enableHealthScaling is true.
 	# Default: 0.2
 	# Range: 0.1 ~ 10.0
@@ -32,11 +32,11 @@
 	#List of armor mobs can spawn with in caves.
 	caveArmor = ["minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "create_sa:zinc_helmet", "create_sa:zinc_chestplate", "create_sa:zinc_leggings", "create_sa:zinc_boots", "create_sa:brass_helmet", "create_sa:brass_chestplate", "create_sa:brass_leggings", "create_sa:brass_boots", "create_sa:copper_helmet", "create_sa:copper_chestplate", "create_sa:copper_leggings", "create_sa:copper_boots"]
 	#List of weapons mobs can spawn with in caves.
-	caveWeapons = ["minecraft:shield","minecraft:stone_sword", "minecraft:iron_sword", "create_sa:brass_sword", "create_sa:blazing_cleaver", "minecraft:wooden_axe", "minecraft:golden_axe", "create_sa:copper_axe", "create_sa:zinc_axe", "create_sa:brass_axe", "create_sa:blazing_axe", "minecraft:iron_axe", "minecraft:stone_axe", "create_sa:experience_axe"]
+	caveWeapons = ["minecraft:stone_sword", "minecraft:iron_sword", "create_sa:brass_sword", "create_sa:blazing_cleaver", "minecraft:wooden_axe", "minecraft:golden_axe", "create_sa:copper_axe", "create_sa:zinc_axe", "create_sa:brass_axe", "create_sa:blazing_axe", "minecraft:iron_axe", "minecraft:stone_axe", "create_sa:experience_axe"]
 	#List of armor mobs can spawn with in deep caves.
 	deepCaveArmor = ["minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "create_sa:zinc_helmet", "create_sa:zinc_chestplate", "create_sa:zinc_leggings", "create_sa:zinc_boots", "create_sa:brass_helmet", "create_sa:brass_chestplate", "create_sa:brass_leggings", "create_sa:brass_boots", "minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots"]
 	#List of weapons mobs can spawn with in deep caves.
-	deepCaveWeapons = ["minecraft:shield","minecraft:iron_sword", "create_sa:brass_sword", "create_sa:rose_quartz_sword", "create_sa:blazing_cleaver", "minecraft:diamond_sword", "create_sa:brass_axe", "create_sa:rose_quartz_axe", "create_sa:blazing_axe", "minecraft:diamond_axe", "minecraft:iron_axe"]
+	deepCaveWeapons = ["minecraft:iron_sword", "create_sa:brass_sword", "create_sa:rose_quartz_sword", "create_sa:blazing_cleaver", "minecraft:diamond_sword", "create_sa:brass_axe", "create_sa:rose_quartz_axe", "create_sa:blazing_axe", "minecraft:diamond_axe", "minecraft:iron_axe"]
 	#Chance for mobs to spawn with gear in EASY mode.
 	# Default: 0.1
 	# Range: 0.0 ~ 1.0

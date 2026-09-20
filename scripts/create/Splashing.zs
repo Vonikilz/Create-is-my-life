@@ -12,3 +12,10 @@ function addCreateSplashing(itemIn as string,itemOut1 as string,itemOut2 as stri
     ingredients: [{item: "minecraft:calcite"}], 
     results: [{id: "minecraft:tuff"}]
 });
+//Дроблёный уран
+addCreateSplashing("create:crushed_raw_uranium","crowns:natural_uranium_nugget","cgs:lead_nugget",9,0.75);
+//Дроблёный свинец
+addCreateSplashing("create:crushed_raw_lead","cgs:lead_nugget","create:copper_nugget",9,0.75);
+//Дроблёная платина
+<recipetype:create:splashing>.removeByName("createpropulsion:splashing/crushed_raw_platinum");
+addCreateSplashing("create:crushed_raw_platinum","createpropulsion:platinum_nugget","minecraft:gold_nugget",9,0.75);

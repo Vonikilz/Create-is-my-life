@@ -128,217 +128,217 @@
 	#.
 	#Encased Fan
 	[kinetics.encasedFan]
-		#.
-		#Maximum distance in blocks Fans can push entities.
-		# Default: 20
-		# Range: > 5
-		fanPushDistance = 20
-		#.
-		#Maximum distance in blocks from where Fans can pull entities.
-		# Default: 20
-		# Range: > 5
-		fanPullDistance = 20
-		#.
-		#Game ticks between Fans checking for anything blocking their air flow.
-		# Default: 30
-		# Range: > 10
-		fanBlockCheckRate = 30
-		#.
-		#[in Revolutions per Minute]
-		#Rotation speed at which the maximum stats of fans are reached.
-		# Default: 256
-		# Range: > 64
-		fanRotationArgmax = 256
-		#.
-		#Game ticks required for a Fan-based processing recipe to take effect.
-		# Default: 150
-		# Range: > 0
-		fanProcessingTime = 150
+- #.
+- #Maximum distance in blocks Fans can push entities.
+- # Default: 20
+- # Range: > 5
+- fanPushDistance = 20
+- #.
+- #Maximum distance in blocks from where Fans can pull entities.
+- # Default: 20
+- # Range: > 5
+- fanPullDistance = 20
+- #.
+- #Game ticks between Fans checking for anything blocking their air flow.
+- # Default: 30
+- # Range: > 10
+- fanBlockCheckRate = 30
+- #.
+- #[in Revolutions per Minute]
+- #Rotation speed at which the maximum stats of fans are reached.
+- # Default: 256
+- # Range: > 64
+- fanRotationArgmax = 256
+- #.
+- #Game ticks required for a Fan-based processing recipe to take effect.
+- # Default: 150
+- # Range: > 0
+- fanProcessingTime = 150
 
 	#.
 	#Moving Contraptions
 	[kinetics.contraptions]
-		#.
-		#Maximum amount of blocks in a structure movable by Pistons, Bearings or other means.
-		# Default: 2048
-		# Range: > 1
-		maxBlocksMoved = 2048
-		#.
-		#Maximum value of a chassis attachment range.
-		# Default: 16
-		# Range: > 1
-		maxChassisRange = 16
-		#.
-		#Maximum amount of extension poles behind a Mechanical Piston.
-		# Default: 64
-		# Range: > 1
-		maxPistonPoles = 64
-		#.
-		#Max length of rope available off a Rope Pulley.
-		# Default: 384
-		# Range: > 1
-		maxRopeLength = 384
-		#.
-		#Maximum allowed distance of two coupled minecarts.
-		# Default: 32
-		# Range: > 1
-		maxCartCouplingLength = 32
-		#.
-		#Maximum depth of blocks filled in using a Mechanical Roller.
-		# Default: 12
-		# Range: > 1
-		rollerFillDepth = 12
-		#.
-		#Whether minecart contraptions can be picked up in survival mode.
-		survivalContraptionPickup = true
-		#.
-		#Configure how Spawner blocks can be moved by contraptions.
-		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableSpawners = "NO_PICKUP"
-		#.
-		#Configure how Budding Amethyst can be moved by contraptions.
-		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		amethystMovement = "NO_PICKUP"
-		#.
-		#Configure how Obsidian blocks can be moved by contraptions.
-		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableObsidian = "UNMOVABLE"
-		#.
-		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
-		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableReinforcedDeepslate = "UNMOVABLE"
-		#.
-		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
-		moveItemsToStorage = true
-		#.
-		#Whether harvesters should break crops that aren't fully grown.
-		harvestPartiallyGrown = false
-		#.
-		#Whether harvesters should replant crops after harvesting.
-		harvesterReplants = true
-		#.
-		#Whether minecart contraptions can be placed into container items.
-		minecartContraptionInContainers = false
-		#.
-		#Whether stabilised bearings create a separated entity even on non-rotating contraptions.
-		#[Technical]
-		stabiliseStableContraptions = false
-		#.
-		#Whether the players hitbox should be expanded to the size of the contraption hitbox.
-		#[Technical]
-		syncPlayerPickupHitboxWithContraptionHitbox = false
-		#.
-		#Whether to prevent block dropping when contraption is placed inside in-world blocks.
-		noDropWhenContraptionReplaceBlocks = false
+- #.
+- #Maximum amount of blocks in a structure movable by Pistons, Bearings or other means.
+- # Default: 2048
+- # Range: > 1
+- maxBlocksMoved = 2048
+- #.
+- #Maximum value of a chassis attachment range.
+- # Default: 16
+- # Range: > 1
+- maxChassisRange = 16
+- #.
+- #Maximum amount of extension poles behind a Mechanical Piston.
+- # Default: 64
+- # Range: > 1
+- maxPistonPoles = 64
+- #.
+- #Max length of rope available off a Rope Pulley.
+- # Default: 384
+- # Range: > 1
+- maxRopeLength = 384
+- #.
+- #Maximum allowed distance of two coupled minecarts.
+- # Default: 32
+- # Range: > 1
+- maxCartCouplingLength = 32
+- #.
+- #Maximum depth of blocks filled in using a Mechanical Roller.
+- # Default: 12
+- # Range: > 1
+- rollerFillDepth = 12
+- #.
+- #Whether minecart contraptions can be picked up in survival mode.
+- survivalContraptionPickup = true
+- #.
+- #Configure how Spawner blocks can be moved by contraptions.
+- #Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
+- movableSpawners = "NO_PICKUP"
+- #.
+- #Configure how Budding Amethyst can be moved by contraptions.
+- #Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
+- amethystMovement = "NO_PICKUP"
+- #.
+- #Configure how Obsidian blocks can be moved by contraptions.
+- #Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
+- movableObsidian = "UNMOVABLE"
+- #.
+- #Configure how Reinforced Deepslate blocks can be moved by contraptions.
+- #Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
+- movableReinforcedDeepslate = "UNMOVABLE"
+- #.
+- #Whether items mined or harvested by contraptions should be placed in their mounted storage.
+- moveItemsToStorage = true
+- #.
+- #Whether harvesters should break crops that aren't fully grown.
+- harvestPartiallyGrown = false
+- #.
+- #Whether harvesters should replant crops after harvesting.
+- harvesterReplants = true
+- #.
+- #Whether minecart contraptions can be placed into container items.
+- minecartContraptionInContainers = false
+- #.
+- #Whether stabilised bearings create a separated entity even on non-rotating contraptions.
+- #[Technical]
+- stabiliseStableContraptions = false
+- #.
+- #Whether the players hitbox should be expanded to the size of the contraption hitbox.
+- #[Technical]
+- syncPlayerPickupHitboxWithContraptionHitbox = false
+- #.
+- #Whether to prevent block dropping when contraption is placed inside in-world blocks.
+- noDropWhenContraptionReplaceBlocks = false
 
 	#.
 	#Configure speed/capacity levels for requirements and indicators.
 	[kinetics.stats]
-		#.
-		#[in Revolutions per Minute]
-		#Minimum speed of rotation to be considered 'medium'
-		# Default: 30.0
-		# Range: 0.0 ~ 4096.0
-		mediumSpeed = 30.0
-		#.
-		#[in Revolutions per Minute]
-		#Minimum speed of rotation to be considered 'fast'
-		# Default: 100.0
-		# Range: 0.0 ~ 65535.0
-		fastSpeed = 100.0
-		#.
-		#[in Stress Units]
-		#Minimum stress impact to be considered 'medium'
-		# Default: 4.0
-		# Range: 0.0 ~ 4096.0
-		mediumStressImpact = 4.0
-		#.
-		#[in Stress Units]
-		#Minimum stress impact to be considered 'high'
-		# Default: 8.0
-		# Range: 0.0 ~ 65535.0
-		highStressImpact = 8.0
-		#.
-		#[in Stress Units]
-		#Minimum added Capacity by sources to be considered 'medium'
-		# Default: 256.0
-		# Range: 0.0 ~ 4096.0
-		mediumCapacity = 256.0
-		#.
-		#[in Stress Units]
-		#Minimum added Capacity by sources to be considered 'high'
-		# Default: 1024.0
-		# Range: 0.0 ~ 65535.0
-		highCapacity = 1024.0
+- #.
+- #[in Revolutions per Minute]
+- #Minimum speed of rotation to be considered 'medium'
+- # Default: 30.0
+- # Range: 0.0 ~ 4096.0
+- mediumSpeed = 30.0
+- #.
+- #[in Revolutions per Minute]
+- #Minimum speed of rotation to be considered 'fast'
+- # Default: 100.0
+- # Range: 0.0 ~ 65535.0
+- fastSpeed = 100.0
+- #.
+- #[in Stress Units]
+- #Minimum stress impact to be considered 'medium'
+- # Default: 4.0
+- # Range: 0.0 ~ 4096.0
+- mediumStressImpact = 4.0
+- #.
+- #[in Stress Units]
+- #Minimum stress impact to be considered 'high'
+- # Default: 8.0
+- # Range: 0.0 ~ 65535.0
+- highStressImpact = 8.0
+- #.
+- #[in Stress Units]
+- #Minimum added Capacity by sources to be considered 'medium'
+- # Default: 256.0
+- # Range: 0.0 ~ 4096.0
+- mediumCapacity = 256.0
+- #.
+- #[in Stress Units]
+- #Minimum added Capacity by sources to be considered 'high'
+- # Default: 1024.0
+- # Range: 0.0 ~ 65535.0
+- highCapacity = 1024.0
 
-		#.
-		#Fine tune the kinetic stats of individual components
-		[kinetics.stressValues.v2]
+- #.
+- #Fine tune the kinetic stats of individual components
+- [kinetics.stressValues.v2]
 
-			#.
-			#.
-			#[in Stress Units]
-			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
-			[kinetics.stressValues.v2.impact]
-				brass_encased_shaft = 0.0
-				turntable = 4.0
-				clutch = 0.0
-				mechanical_mixer = 4.0
-				gearbox = 0.0
-				mechanical_bearing = 4.0
-				copper_backtank = 4.0
-				hose_pulley = 4.0
-				display_board = 0.0
-				crushing_wheel = 8.0
-				adjustable_chain_gearshift = 0.0
-				millstone = 4.0
-				rotation_speed_controller = 0.0
-				sticky_mechanical_piston = 4.0
-				mechanical_crafter = 2.0
-				deployer = 4.0
-				elevator_pulley = 4.0
-				stressometer = 0.0
-				cogwheel = 0.0
-				encased_chain_drive = 0.0
-				belt = 0.0
-				brass_encased_large_cogwheel = 0.0
-				weighted_ejector = 2.0
-				chain_conveyor = 1.0
-				mechanical_saw = 4.0
-				flywheel = 0.0
-				mechanical_piston = 4.0
-				speedometer = 0.0
-				brass_encased_cogwheel = 0.0
-				clockwork_bearing = 4.0
-				mechanical_press = 8.0
-				mechanical_drill = 4.0
-				andesite_encased_shaft = 0.0
-				netherite_backtank = 4.0
-				mechanical_arm = 2.0
-				sequenced_gearshift = 0.0
-				andesite_encased_large_cogwheel = 0.0
-				shaft = 0.0
-				cuckoo_clock = 1.0
-				gearshift = 0.0
-				rope_pulley = 4.0
-				andesite_encased_cogwheel = 0.0
-				large_cogwheel = 0.0
-				encased_fan = 2.0
-				mysterious_cuckoo_clock = 1.0
-				gantry_shaft = 0.0
-				mechanical_pump = 4.0
+- 	#.
+- 	#.
+- 	#[in Stress Units]
+- 	#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+- 	[kinetics.stressValues.v2.impact]
+- - brass_encased_shaft = 0.0
+- - turntable = 4.0
+- - clutch = 0.0
+- - mechanical_mixer = 4.0
+- - gearbox = 0.0
+- - mechanical_bearing = 4.0
+- - copper_backtank = 4.0
+- - hose_pulley = 4.0
+- - display_board = 0.0
+- - crushing_wheel = 8.0
+- - adjustable_chain_gearshift = 0.0
+- - millstone = 4.0
+- - rotation_speed_controller = 0.0
+- - sticky_mechanical_piston = 4.0
+- - mechanical_crafter = 2.0
+- - deployer = 4.0
+- - elevator_pulley = 4.0
+- - stressometer = 0.0
+- - cogwheel = 0.0
+- - encased_chain_drive = 0.0
+- - belt = 0.0
+- - brass_encased_large_cogwheel = 0.0
+- - weighted_ejector = 2.0
+- - chain_conveyor = 1.0
+- - mechanical_saw = 4.0
+- - flywheel = 0.0
+- - mechanical_piston = 4.0
+- - speedometer = 0.0
+- - brass_encased_cogwheel = 0.0
+- - clockwork_bearing = 4.0
+- - mechanical_press = 8.0
+- - mechanical_drill = 4.0
+- - andesite_encased_shaft = 0.0
+- - netherite_backtank = 4.0
+- - mechanical_arm = 2.0
+- - sequenced_gearshift = 0.0
+- - andesite_encased_large_cogwheel = 0.0
+- - shaft = 0.0
+- - cuckoo_clock = 1.0
+- - gearshift = 0.0
+- - rope_pulley = 4.0
+- - andesite_encased_cogwheel = 0.0
+- - large_cogwheel = 0.0
+- - encased_fan = 2.0
+- - mysterious_cuckoo_clock = 1.0
+- - gantry_shaft = 0.0
+- - mechanical_pump = 4.0
 
-			#.
-			#[in Stress Units]
-			#Configure how much stress a source can accommodate for.
-			[kinetics.stressValues.v2.capacity]
-				steam_engine = 1024.0
-				water_wheel = 32.0
-				copper_valve_handle = 8.0
-				hand_crank = 8.0
-				creative_motor = 16384.0
-				large_water_wheel = 128.0
-				windmill_bearing = 512.0
+- 	#.
+- 	#[in Stress Units]
+- 	#Configure how much stress a source can accommodate for.
+- 	[kinetics.stressValues.v2.capacity]
+- - steam_engine = 1024.0
+- - water_wheel = 32.0
+- - copper_valve_handle = 8.0
+- - hand_crank = 8.0
+- - creative_motor = 16384.0
+- - large_water_wheel = 128.0
+- - windmill_bearing = 512.0
 
 #.
 #Create's liquid manipulation tools
@@ -480,16 +480,16 @@
 	#.
 	#Schematicannon
 	[schematics.schematicannon]
-		#.
-		#Amount of game ticks between shots of the cannon. Higher => Slower
-		# Default: 10
-		# Range: > 1
-		schematicannonDelay = 10
-		#.
-		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
-		# Default: 400
-		# Range: > 1
-		schematicannonShotsPerGunpowder = 400
+- #.
+- #Amount of game ticks between shots of the cannon. Higher => Slower
+- # Default: 10
+- # Range: > 1
+- schematicannonDelay = 10
+- #.
+- #Amount of blocks a Schematicannon can print per Gunpowder item provided.
+- # Default: 400
+- # Range: > 1
+- schematicannonShotsPerGunpowder = 400
 
 #.
 #Equipment and gadgets added by Create
@@ -562,43 +562,43 @@
 	#.
 	#Standard Trains
 	[trains.trainStats]
-		#.
-		#[in Blocks/Second]
-		#The top speed of any assembled Train.
-		# Default: 28.0
-		# Range: 0.0 ~ 3.4028234663852886E38
-		trainTopSpeed = 28.0
-		#.
-		#[in Blocks/Second]
-		#The top speed of Trains during a turn.
-		# Default: 14.0
-		# Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 14.0
-		#.
-		#[in Blocks/Second²]
-		#The acceleration of any assembled Train.
-		# Default: 3.0
-		# Range: 0.0 ~ 3.4028234663852886E38
-		trainAcceleration = 3.0
+- #.
+- #[in Blocks/Second]
+- #The top speed of any assembled Train.
+- # Default: 28.0
+- # Range: 0.0 ~ 3.4028234663852886E38
+- trainTopSpeed = 28.0
+- #.
+- #[in Blocks/Second]
+- #The top speed of Trains during a turn.
+- # Default: 14.0
+- # Range: 0.0 ~ 3.4028234663852886E38
+- trainTurningTopSpeed = 14.0
+- #.
+- #[in Blocks/Second²]
+- #The acceleration of any assembled Train.
+- # Default: 3.0
+- # Range: 0.0 ~ 3.4028234663852886E38
+- trainAcceleration = 3.0
 
 	#.
 	#Powered Trains
 	[trains.poweredTrainStats]
-		#.
-		#[in Blocks/Second]
-		#The top speed of powered Trains.
-		# Default: 40.0
-		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 40.0
-		#.
-		#[in Blocks/Second]
-		#The top speed of powered Trains during a turn.
-		# Default: 20.0
-		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 20.0
-		#.
-		#[in Blocks/Second²]
-		#The acceleration of powered Trains.
-		# Default: 3.0
-		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 3.0
+- #.
+- #[in Blocks/Second]
+- #The top speed of powered Trains.
+- # Default: 40.0
+- # Range: 0.0 ~ 3.4028234663852886E38
+- poweredTrainTopSpeed = 40.0
+- #.
+- #[in Blocks/Second]
+- #The top speed of powered Trains during a turn.
+- # Default: 20.0
+- # Range: 0.0 ~ 3.4028234663852886E38
+- poweredTrainTurningTopSpeed = 20.0
+- #.
+- #[in Blocks/Second²]
+- #The acceleration of powered Trains.
+- # Default: 3.0
+- # Range: 0.0 ~ 3.4028234663852886E38
+- poweredTrainAcceleration = 3.0

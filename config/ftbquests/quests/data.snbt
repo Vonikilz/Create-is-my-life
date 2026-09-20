@@ -13,16 +13,16 @@
 	grid_scale: 0.5d
 	hide_excluded_quests: false
 	icon: {
-		components: {
-			"ftbquests:icon": "minecraft:textures/painting/baroque.png"
-		}
-		id: "ftbquests:custom_icon"
+- components: {
+- 	"ftbquests:icon": "minecraft:textures/painting/baroque.png"
+- }
+- id: "ftbquests:custom_icon"
 	}
 	lock_message: ""
 	loot_crate_no_drop: {
-		boss: 0
-		monster: 600
-		passive: 4000
+- boss: 0
+- monster: 600
+- passive: 4000
 	}
 	pause_game: false
 	presets: { }

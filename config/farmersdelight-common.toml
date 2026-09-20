@@ -41,10 +41,10 @@
 	enableCuttingBoardDispenserBehavior = true
 
 	[overrides.stack_size]
-		#If enabled, any BowlFoodItem in the following list will become stackable to 16, much like Farmer's Delight's meals.
-		enableStackableSoupItems = true
-		#List of targeted food items. They must extend the BowlFoodItem class in code to be affected. Defaults to vanilla soups and stews.
-		soupItemList = ["minecraft:mushroom_stew", "minecraft:beetroot_soup", "minecraft:rabbit_stew"]
+- #If enabled, any BowlFoodItem in the following list will become stackable to 16, much like Farmer's Delight's meals.
+- enableStackableSoupItems = true
+- #List of targeted food items. They must extend the BowlFoodItem class in code to be affected. Defaults to vanilla soups and stews.
+- soupItemList = ["minecraft:mushroom_stew", "minecraft:beetroot_soup", "minecraft:rabbit_stew"]
 
 [world]
 	#If enabled, new loot pools will be added to chest loot across the game, containing items from this mod (ropes, crops, tools etc).

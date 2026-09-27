@@ -92,3 +92,15 @@ addCreateCrushing("minecraft:clock","minecraft:redstone",1,300);
 addCreateCrushing("minecraft:deepslate","minecraft:cobbled_deepslate",1,400);
 //Переработка колотого глубинного сланца
 addCreateCrushing("minecraft:cobbled_deepslate","minecraft:cobblestone",1,400);
+//Дробление Эндериумой руды
+<recipetype:create:crushing>.addJsonRecipe("enderium_shard_ore", {
+    "type": "create:crushing",
+    "ingredients": [{"item": "majruszsdifficulty:enderium_shard_ore"}],
+    "processing_time": 300,
+    "results": [
+        {"id": "majruszsdifficulty:enderium_shard", "count": 2}, 
+        {"id": "majruszsdifficulty:enderium_shard", "chance": 0.25}, 
+        {"id": "create:experience_nugget", "chance": 0.75}, 
+        {"id": "minecraft:end_stone", "chance": 0.125}
+    ]
+});

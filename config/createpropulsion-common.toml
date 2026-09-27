@@ -209,280 +209,280 @@
 	#Fuel properties by fluid id. Configure efficiency and burn rate separately as percentages.
 	["Fuel Configuration".fuelProperties]
 
-- ["Fuel Configuration".fuelProperties.createpropulsion_turpentine]
-- 	#Fuel efficiency percentage for createpropulsion:turpentine.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	efficiency = 100
-- 	#Fuel burn rate percentage for createpropulsion:turpentine.
-- 	# Default: 150
-- 	# Range: 0 ~ 10000
-- 	burnRate = 150
+		["Fuel Configuration".fuelProperties.createpropulsion_turpentine]
+			#Fuel efficiency percentage for createpropulsion:turpentine.
+			# Default: 100
+			# Range: 0 ~ 10000
+			efficiency = 100
+			#Fuel burn rate percentage for createpropulsion:turpentine.
+			# Default: 150
+			# Range: 0 ~ 10000
+			burnRate = 150
 
-- ["Fuel Configuration".fuelProperties.minecraft_lava]
-- 	#Fuel efficiency percentage for minecraft:lava.
-- 	# Default: 75
-- 	# Range: 0 ~ 10000
-- 	efficiency = 75
-- 	#Fuel burn rate percentage for minecraft:lava.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	burnRate = 100
+		["Fuel Configuration".fuelProperties.minecraft_lava]
+			#Fuel efficiency percentage for minecraft:lava.
+			# Default: 75
+			# Range: 0 ~ 10000
+			efficiency = 75
+			#Fuel burn rate percentage for minecraft:lava.
+			# Default: 100
+			# Range: 0 ~ 10000
+			burnRate = 100
 
-- ["Fuel Configuration".fuelProperties.createdieselgenerators_plant_oil]
-- 	#Fuel efficiency percentage for createdieselgenerators:plant_oil.
-- 	# Default: 55
-- 	# Range: 0 ~ 10000
-- 	efficiency = 55
-- 	#Fuel burn rate percentage for createdieselgenerators:plant_oil.
-- 	# Default: 170
-- 	# Range: 0 ~ 10000
-- 	burnRate = 170
+		["Fuel Configuration".fuelProperties.createdieselgenerators_plant_oil]
+			#Fuel efficiency percentage for createdieselgenerators:plant_oil.
+			# Default: 55
+			# Range: 0 ~ 10000
+			efficiency = 55
+			#Fuel burn rate percentage for createdieselgenerators:plant_oil.
+			# Default: 170
+			# Range: 0 ~ 10000
+			burnRate = 170
 
-- ["Fuel Configuration".fuelProperties.immersiveengineering_plantoil]
-- 	#Fuel efficiency percentage for immersiveengineering:plantoil.
-- 	# Default: 55
-- 	# Range: 0 ~ 10000
-- 	efficiency = 55
-- 	#Fuel burn rate percentage for immersiveengineering:plantoil.
-- 	# Default: 170
-- 	# Range: 0 ~ 10000
-- 	burnRate = 170
+		["Fuel Configuration".fuelProperties.immersiveengineering_plantoil]
+			#Fuel efficiency percentage for immersiveengineering:plantoil.
+			# Default: 55
+			# Range: 0 ~ 10000
+			efficiency = 55
+			#Fuel burn rate percentage for immersiveengineering:plantoil.
+			# Default: 170
+			# Range: 0 ~ 10000
+			burnRate = 170
 
-- ["Fuel Configuration".fuelProperties.createdieselgenerators_ethanol]
-- 	#Fuel efficiency percentage for createdieselgenerators:ethanol.
-- 	# Default: 70
-- 	# Range: 0 ~ 10000
-- 	efficiency = 70
-- 	#Fuel burn rate percentage for createdieselgenerators:ethanol.
-- 	# Default: 140
-- 	# Range: 0 ~ 10000
-- 	burnRate = 140
+		["Fuel Configuration".fuelProperties.createdieselgenerators_ethanol]
+			#Fuel efficiency percentage for createdieselgenerators:ethanol.
+			# Default: 70
+			# Range: 0 ~ 10000
+			efficiency = 70
+			#Fuel burn rate percentage for createdieselgenerators:ethanol.
+			# Default: 140
+			# Range: 0 ~ 10000
+			burnRate = 140
 
-- ["Fuel Configuration".fuelProperties.immersiveengineering_ethanol]
-- 	#Fuel efficiency percentage for immersiveengineering:ethanol.
-- 	# Default: 70
-- 	# Range: 0 ~ 10000
-- 	efficiency = 70
-- 	#Fuel burn rate percentage for immersiveengineering:ethanol.
-- 	# Default: 140
-- 	# Range: 0 ~ 10000
-- 	burnRate = 140
+		["Fuel Configuration".fuelProperties.immersiveengineering_ethanol]
+			#Fuel efficiency percentage for immersiveengineering:ethanol.
+			# Default: 70
+			# Range: 0 ~ 10000
+			efficiency = 70
+			#Fuel burn rate percentage for immersiveengineering:ethanol.
+			# Default: 140
+			# Range: 0 ~ 10000
+			burnRate = 140
 
-- ["Fuel Configuration".fuelProperties.mekanismgenerators_bioethanol]
-- 	#Fuel efficiency percentage for mekanismgenerators:bioethanol.
-- 	# Default: 75
-- 	# Range: 0 ~ 10000
-- 	efficiency = 75
-- 	#Fuel burn rate percentage for mekanismgenerators:bioethanol.
-- 	# Default: 135
-- 	# Range: 0 ~ 10000
-- 	burnRate = 135
+		["Fuel Configuration".fuelProperties.mekanismgenerators_bioethanol]
+			#Fuel efficiency percentage for mekanismgenerators:bioethanol.
+			# Default: 75
+			# Range: 0 ~ 10000
+			efficiency = 75
+			#Fuel burn rate percentage for mekanismgenerators:bioethanol.
+			# Default: 135
+			# Range: 0 ~ 10000
+			burnRate = 135
 
-- ["Fuel Configuration".fuelProperties.northstar_biofuel]
-- 	#Fuel efficiency percentage for northstar:biofuel.
-- 	# Default: 80
-- 	# Range: 0 ~ 10000
-- 	efficiency = 80
-- 	#Fuel burn rate percentage for northstar:biofuel.
-- 	# Default: 125
-- 	# Range: 0 ~ 10000
-- 	burnRate = 125
+		["Fuel Configuration".fuelProperties.northstar_biofuel]
+			#Fuel efficiency percentage for northstar:biofuel.
+			# Default: 80
+			# Range: 0 ~ 10000
+			efficiency = 80
+			#Fuel burn rate percentage for northstar:biofuel.
+			# Default: 125
+			# Range: 0 ~ 10000
+			burnRate = 125
 
-- ["Fuel Configuration".fuelProperties.createdieselgenerators_biodiesel]
-- 	#Fuel efficiency percentage for createdieselgenerators:biodiesel.
-- 	# Default: 90
-- 	# Range: 0 ~ 10000
-- 	efficiency = 90
-- 	#Fuel burn rate percentage for createdieselgenerators:biodiesel.
-- 	# Default: 110
-- 	# Range: 0 ~ 10000
-- 	burnRate = 110
+		["Fuel Configuration".fuelProperties.createdieselgenerators_biodiesel]
+			#Fuel efficiency percentage for createdieselgenerators:biodiesel.
+			# Default: 90
+			# Range: 0 ~ 10000
+			efficiency = 90
+			#Fuel burn rate percentage for createdieselgenerators:biodiesel.
+			# Default: 110
+			# Range: 0 ~ 10000
+			burnRate = 110
 
-- ["Fuel Configuration".fuelProperties.immersiveengineering_biodiesel]
-- 	#Fuel efficiency percentage for immersiveengineering:biodiesel.
-- 	# Default: 90
-- 	# Range: 0 ~ 10000
-- 	efficiency = 90
-- 	#Fuel burn rate percentage for immersiveengineering:biodiesel.
-- 	# Default: 110
-- 	# Range: 0 ~ 10000
-- 	burnRate = 110
+		["Fuel Configuration".fuelProperties.immersiveengineering_biodiesel]
+			#Fuel efficiency percentage for immersiveengineering:biodiesel.
+			# Default: 90
+			# Range: 0 ~ 10000
+			efficiency = 90
+			#Fuel burn rate percentage for immersiveengineering:biodiesel.
+			# Default: 110
+			# Range: 0 ~ 10000
+			burnRate = 110
 
-- ["Fuel Configuration".fuelProperties.immersiveengineering_high_power_biodiesel]
-- 	#Fuel efficiency percentage for immersiveengineering:high_power_biodiesel.
-- 	# Default: 105
-- 	# Range: 0 ~ 10000
-- 	efficiency = 105
-- 	#Fuel burn rate percentage for immersiveengineering:high_power_biodiesel.
-- 	# Default: 95
-- 	# Range: 0 ~ 10000
-- 	burnRate = 95
+		["Fuel Configuration".fuelProperties.immersiveengineering_high_power_biodiesel]
+			#Fuel efficiency percentage for immersiveengineering:high_power_biodiesel.
+			# Default: 105
+			# Range: 0 ~ 10000
+			efficiency = 105
+			#Fuel burn rate percentage for immersiveengineering:high_power_biodiesel.
+			# Default: 95
+			# Range: 0 ~ 10000
+			burnRate = 95
 
-- ["Fuel Configuration".fuelProperties.createdieselgenerators_diesel]
-- 	#Fuel efficiency percentage for createdieselgenerators:diesel.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	efficiency = 100
-- 	#Fuel burn rate percentage for createdieselgenerators:diesel.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	burnRate = 100
+		["Fuel Configuration".fuelProperties.createdieselgenerators_diesel]
+			#Fuel efficiency percentage for createdieselgenerators:diesel.
+			# Default: 100
+			# Range: 0 ~ 10000
+			efficiency = 100
+			#Fuel burn rate percentage for createdieselgenerators:diesel.
+			# Default: 100
+			# Range: 0 ~ 10000
+			burnRate = 100
 
-- ["Fuel Configuration".fuelProperties.tfmg_diesel]
-- 	#Fuel efficiency percentage for tfmg:diesel.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	efficiency = 100
-- 	#Fuel burn rate percentage for tfmg:diesel.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	burnRate = 100
+		["Fuel Configuration".fuelProperties.tfmg_diesel]
+			#Fuel efficiency percentage for tfmg:diesel.
+			# Default: 100
+			# Range: 0 ~ 10000
+			efficiency = 100
+			#Fuel burn rate percentage for tfmg:diesel.
+			# Default: 100
+			# Range: 0 ~ 10000
+			burnRate = 100
 
-- ["Fuel Configuration".fuelProperties.stellaris_diesel]
-- 	#Fuel efficiency percentage for stellaris:diesel.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	efficiency = 100
-- 	#Fuel burn rate percentage for stellaris:diesel.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	burnRate = 100
+		["Fuel Configuration".fuelProperties.stellaris_diesel]
+			#Fuel efficiency percentage for stellaris:diesel.
+			# Default: 100
+			# Range: 0 ~ 10000
+			efficiency = 100
+			#Fuel burn rate percentage for stellaris:diesel.
+			# Default: 100
+			# Range: 0 ~ 10000
+			burnRate = 100
 
-- ["Fuel Configuration".fuelProperties.tfmg_naphtha]
-- 	#Fuel efficiency percentage for tfmg:naphtha.
-- 	# Default: 95
-- 	# Range: 0 ~ 10000
-- 	efficiency = 95
-- 	#Fuel burn rate percentage for tfmg:naphtha.
-- 	# Default: 105
-- 	# Range: 0 ~ 10000
-- 	burnRate = 105
+		["Fuel Configuration".fuelProperties.tfmg_naphtha]
+			#Fuel efficiency percentage for tfmg:naphtha.
+			# Default: 95
+			# Range: 0 ~ 10000
+			efficiency = 95
+			#Fuel burn rate percentage for tfmg:naphtha.
+			# Default: 105
+			# Range: 0 ~ 10000
+			burnRate = 105
 
-- ["Fuel Configuration".fuelProperties.tfmg_kerosene]
-- 	#Fuel efficiency percentage for tfmg:kerosene.
-- 	# Default: 230
-- 	# Range: 0 ~ 10000
-- 	efficiency = 230
-- 	#Fuel burn rate percentage for tfmg:kerosene.
-- 	# Default: 90
-- 	# Range: 0 ~ 10000
-- 	burnRate = 90
+		["Fuel Configuration".fuelProperties.tfmg_kerosene]
+			#Fuel efficiency percentage for tfmg:kerosene.
+			# Default: 230
+			# Range: 0 ~ 10000
+			efficiency = 230
+			#Fuel burn rate percentage for tfmg:kerosene.
+			# Default: 90
+			# Range: 0 ~ 10000
+			burnRate = 90
 
-- ["Fuel Configuration".fuelProperties.createdieselgenerators_gasoline]
-- 	#Fuel efficiency percentage for createdieselgenerators:gasoline.
-- 	# Default: 125
-- 	# Range: 0 ~ 10000
-- 	efficiency = 125
-- 	#Fuel burn rate percentage for createdieselgenerators:gasoline.
-- 	# Default: 80
-- 	# Range: 0 ~ 10000
-- 	burnRate = 80
+		["Fuel Configuration".fuelProperties.createdieselgenerators_gasoline]
+			#Fuel efficiency percentage for createdieselgenerators:gasoline.
+			# Default: 125
+			# Range: 0 ~ 10000
+			efficiency = 125
+			#Fuel burn rate percentage for createdieselgenerators:gasoline.
+			# Default: 80
+			# Range: 0 ~ 10000
+			burnRate = 80
 
-- ["Fuel Configuration".fuelProperties.tfmg_gasoline]
-- 	#Fuel efficiency percentage for tfmg:gasoline.
-- 	# Default: 125
-- 	# Range: 0 ~ 10000
-- 	efficiency = 125
-- 	#Fuel burn rate percentage for tfmg:gasoline.
-- 	# Default: 80
-- 	# Range: 0 ~ 10000
-- 	burnRate = 80
+		["Fuel Configuration".fuelProperties.tfmg_gasoline]
+			#Fuel efficiency percentage for tfmg:gasoline.
+			# Default: 125
+			# Range: 0 ~ 10000
+			efficiency = 125
+			#Fuel burn rate percentage for tfmg:gasoline.
+			# Default: 80
+			# Range: 0 ~ 10000
+			burnRate = 80
 
-- ["Fuel Configuration".fuelProperties.tfmg_lpg]
-- 	#Fuel efficiency percentage for tfmg:lpg.
-- 	# Default: 120
-- 	# Range: 0 ~ 10000
-- 	efficiency = 120
-- 	#Fuel burn rate percentage for tfmg:lpg.
-- 	# Default: 85
-- 	# Range: 0 ~ 10000
-- 	burnRate = 85
+		["Fuel Configuration".fuelProperties.tfmg_lpg]
+			#Fuel efficiency percentage for tfmg:lpg.
+			# Default: 120
+			# Range: 0 ~ 10000
+			efficiency = 120
+			#Fuel burn rate percentage for tfmg:lpg.
+			# Default: 85
+			# Range: 0 ~ 10000
+			burnRate = 85
 
-- ["Fuel Configuration".fuelProperties.northstar_hydrocarbon]
-- 	#Fuel efficiency percentage for northstar:hydrocarbon.
-- 	# Default: 130
-- 	# Range: 0 ~ 10000
-- 	efficiency = 130
-- 	#Fuel burn rate percentage for northstar:hydrocarbon.
-- 	# Default: 75
-- 	# Range: 0 ~ 10000
-- 	burnRate = 75
+		["Fuel Configuration".fuelProperties.northstar_hydrocarbon]
+			#Fuel efficiency percentage for northstar:hydrocarbon.
+			# Default: 130
+			# Range: 0 ~ 10000
+			efficiency = 130
+			#Fuel burn rate percentage for northstar:hydrocarbon.
+			# Default: 75
+			# Range: 0 ~ 10000
+			burnRate = 75
 
-- ["Fuel Configuration".fuelProperties.stellaris_fuel]
-- 	#Fuel efficiency percentage for stellaris:fuel.
-- 	# Default: 115
-- 	# Range: 0 ~ 10000
-- 	efficiency = 115
-- 	#Fuel burn rate percentage for stellaris:fuel.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	burnRate = 100
+		["Fuel Configuration".fuelProperties.stellaris_fuel]
+			#Fuel efficiency percentage for stellaris:fuel.
+			# Default: 115
+			# Range: 0 ~ 10000
+			efficiency = 115
+			#Fuel burn rate percentage for stellaris:fuel.
+			# Default: 100
+			# Range: 0 ~ 10000
+			burnRate = 100
 
-- ["Fuel Configuration".fuelProperties.mekanism_hydrogen]
-- 	#Fuel efficiency percentage for mekanism:hydrogen.
-- 	# Default: 230
-- 	# Range: 0 ~ 10000
-- 	efficiency = 230
-- 	#Fuel burn rate percentage for mekanism:hydrogen.
-- 	# Default: 90
-- 	# Range: 0 ~ 10000
-- 	burnRate = 90
+		["Fuel Configuration".fuelProperties.mekanism_hydrogen]
+			#Fuel efficiency percentage for mekanism:hydrogen.
+			# Default: 230
+			# Range: 0 ~ 10000
+			efficiency = 230
+			#Fuel burn rate percentage for mekanism:hydrogen.
+			# Default: 90
+			# Range: 0 ~ 10000
+			burnRate = 90
 
-- ["Fuel Configuration".fuelProperties.createaddition_bioethanol]
-- 	#Fuel efficiency percentage for createaddition:bioethanol.
-- 	# Default: 75
-- 	# Range: 0 ~ 10000
-- 	efficiency = 75
-- 	#Fuel burn rate percentage for createaddition:bioethanol.
-- 	# Default: 135
-- 	# Range: 0 ~ 10000
-- 	burnRate = 135
+		["Fuel Configuration".fuelProperties.createaddition_bioethanol]
+			#Fuel efficiency percentage for createaddition:bioethanol.
+			# Default: 75
+			# Range: 0 ~ 10000
+			efficiency = 75
+			#Fuel burn rate percentage for createaddition:bioethanol.
+			# Default: 135
+			# Range: 0 ~ 10000
+			burnRate = 135
 
-- ["Fuel Configuration".fuelProperties.createaddition_seed_oil]
-- 	#Fuel efficiency percentage for createaddition:seed_oil.
-- 	# Default: 55
-- 	# Range: 0 ~ 10000
-- 	efficiency = 55
-- 	#Fuel burn rate percentage for createaddition:seed_oil.
-- 	# Default: 170
-- 	# Range: 0 ~ 10000
-- 	burnRate = 170
+		["Fuel Configuration".fuelProperties.createaddition_seed_oil]
+			#Fuel efficiency percentage for createaddition:seed_oil.
+			# Default: 55
+			# Range: 0 ~ 10000
+			efficiency = 55
+			#Fuel burn rate percentage for createaddition:seed_oil.
+			# Default: 170
+			# Range: 0 ~ 10000
+			burnRate = 170
 
-- ["Fuel Configuration".fuelProperties.northstar_methane]
-- 	#Fuel efficiency percentage for northstar:methane.
-- 	# Default: 105
-- 	# Range: 0 ~ 10000
-- 	efficiency = 105
-- 	#Fuel burn rate percentage for northstar:methane.
-- 	# Default: 95
-- 	# Range: 0 ~ 10000
-- 	burnRate = 95
+		["Fuel Configuration".fuelProperties.northstar_methane]
+			#Fuel efficiency percentage for northstar:methane.
+			# Default: 105
+			# Range: 0 ~ 10000
+			efficiency = 105
+			#Fuel burn rate percentage for northstar:methane.
+			# Default: 95
+			# Range: 0 ~ 10000
+			burnRate = 95
 
-- ["Fuel Configuration".fuelProperties.northstar_liquid_hydrogen]
-- 	#Fuel efficiency percentage for northstar:liquid_hydrogen.
-- 	# Default: 230
-- 	# Range: 0 ~ 10000
-- 	efficiency = 230
-- 	#Fuel burn rate percentage for northstar:liquid_hydrogen.
-- 	# Default: 90
-- 	# Range: 0 ~ 10000
-- 	burnRate = 90
+		["Fuel Configuration".fuelProperties.northstar_liquid_hydrogen]
+			#Fuel efficiency percentage for northstar:liquid_hydrogen.
+			# Default: 230
+			# Range: 0 ~ 10000
+			efficiency = 230
+			#Fuel burn rate percentage for northstar:liquid_hydrogen.
+			# Default: 90
+			# Range: 0 ~ 10000
+			burnRate = 90
 
-- ["Fuel Configuration".fuelProperties.immersivepetroleum_diesel_sulfur]
-- 	#Fuel efficiency percentage for immersivepetroleum:diesel_sulfur.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	efficiency = 100
-- 	#Fuel burn rate percentage for immersivepetroleum:diesel_sulfur.
-- 	# Default: 100
-- 	# Range: 0 ~ 10000
-- 	burnRate = 100
+		["Fuel Configuration".fuelProperties.immersivepetroleum_diesel_sulfur]
+			#Fuel efficiency percentage for immersivepetroleum:diesel_sulfur.
+			# Default: 100
+			# Range: 0 ~ 10000
+			efficiency = 100
+			#Fuel burn rate percentage for immersivepetroleum:diesel_sulfur.
+			# Default: 100
+			# Range: 0 ~ 10000
+			burnRate = 100
 
 	#Coral conversion entries. Each key is a fluid id and each value is '<fe_per_mb>'.
 	#Example value: 16
 	["Fuel Configuration".coralFuelConversionRates]
-- createpropulsion_coral = "500"
+		createpropulsion_coral = "500"
 
 [thrusterDyeColors]
 	#Particle color overrides when a dye is applied to a thruster. Values are RRGGBB hex strings.

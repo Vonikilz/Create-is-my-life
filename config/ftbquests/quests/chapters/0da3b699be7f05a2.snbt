@@ -1,0 +1,255 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0da3b699be7f05a2"
+	group: "120078CB61A704FD"
+	icon: {
+		id: "create:cardboard"
+	}
+	id: "0DA3B699BE7F05A2"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1561C58A868039CB"
+			rewards: [{
+				id: "4E066E3FDD47CE87"
+				item: {
+					count: 1
+					id: "create:repackager"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2949D26FE0E21025"
+				item: { count: 1, id: "create:cardboard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "create:cardboard_helmet"
+			}
+			id: "3E07AC8654C33A2A"
+			tasks: [
+				{
+					id: "15EF5E4A657F8A53"
+					item: { count: 1, id: "create:cardboard_helmet" }
+					type: "item"
+				}
+				{
+					id: "1163AE0FFA57F5AA"
+					item: { count: 1, id: "create:cardboard_chestplate" }
+					type: "item"
+				}
+				{
+					id: "54D10F934A05955D"
+					item: { count: 1, id: "create:cardboard_leggings" }
+					type: "item"
+				}
+				{
+					id: "2476A494D43AAC25"
+					item: { count: 1, id: "create:cardboard_boots" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "createcardboardthings:cardboard_elytra"
+			}
+			id: "6D039A58190049DE"
+			tasks: [
+				{
+					id: "2D3C9512F1A85578"
+					item: { count: 1, id: "createcardboardthings:cardboard_elytra" }
+					type: "item"
+				}
+				{
+					id: "7275B6CBA4444388"
+					item: { count: 1, id: "createcardboardthings:cardboard_rocket" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "2FA5A67D0AE3FD22"
+			tasks: [{
+				id: "693FAF7E3B4A850A"
+				item: { count: 1, id: "createcardboardthings:cardboard_jukebox" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "380069ACB78325BF"
+			tasks: [{
+				id: "00A979F0636B06AC"
+				item: { count: 1, id: "createcardboardthings:cardboard_tnt" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "6BDD86E25E86522A"
+			tasks: [{
+				id: "070AF68CC60A2C02"
+				item: { count: 1, id: "createcardboardthings:cardboard_pickaxe" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "20C0254CDD4892EA"
+			tasks: [{
+				id: "6B99E2111044A816"
+				item: { count: 1, id: "createcardboardthings:cardboard_shears" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "0776BF9F93D09470"
+			tasks: [{
+				id: "16400E78D13EF795"
+				item: { count: 1, id: "createcardboardthings:cardboard_saddle" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "4D2C1B9F51CB40DB"
+			tasks: [{
+				id: "3A73ACF5534DD802"
+				item: { count: 1, id: "createcardboardthings:cardboard_bucket" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "5157CCDBD1C14BF4"
+			tasks: [{
+				id: "0C9AD3B7A326F399"
+				item: { count: 1, id: "createcardboardthings:cardboard_goggles" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "7F80D80D41968C9B"
+			tasks: [{
+				id: "7356106B0182366A"
+				item: { count: 1, id: "createcardboardthings:cardboard_arrow" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "053A6A9B31037E8D"
+			tasks: [{
+				id: "4F60202D18375A9A"
+				item: { count: 1, id: "createcardboardthings:cardboard_totem" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "79455A05133C281A"
+			tasks: [{
+				id: "757147EF89C55583"
+				item: { count: 1, id: "createcardboardthings:cardboard_ball" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "44520BADA637FE14"
+			tasks: [{
+				id: "53891E2C8800453C"
+				item: { count: 1, id: "createcardboardthings:cardboard_trident" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "1D96207632B1B6DA"
+			tasks: [{
+				id: "45F374D4D47045AB"
+				item: { count: 1, id: "createcardboardthings:cardboard_shield" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "505F98A3DFA38B20"
+			tasks: [{
+				id: "0E50D98A40EAF13C"
+				item: { count: 1, id: "createcardboardthings:cardboard_ingot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1561C58A868039CB"]
+			hide_until_deps_complete: true
+			id: "7D40B5711C19958F"
+			tasks: [{
+				id: "5748DEA1E47697C3"
+				item: { count: 1, id: "create:cardboard_sword" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+	]
+}

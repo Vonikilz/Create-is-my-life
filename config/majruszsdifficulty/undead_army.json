@@ -12,7 +12,7 @@
   "extra_size_ratio_per_player__comment": "extra mobs per additional player, where 0.5 means +50% for each player beyond the first",
   "extra_size_ratio_per_player": 0.5,
   "area_radius__comment": "radius of the battle area in blocks (35 - 140)",
-  "area_radius": 70,
+  "area_radius": 100,
   "kill_requirement__comment": "kills needed to clear a wave (0 - 1000)",
   "kill_requirement": 100,
   "kill_requirement_first__comment": "kills needed to clear the very first wave (1 - 1000)",

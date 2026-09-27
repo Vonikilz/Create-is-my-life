@@ -25,15 +25,15 @@
 #Parameters and abilities of Offroad's kinetic mechanisms
 [kinetics]
 
-- #.
-- #.
-- #Fine tune the kinetic stats of individual components
-- [kinetics.stressValues.v2]
+		#.
+		#.
+		#Fine tune the kinetic stats of individual components
+		[kinetics.stressValues.v2]
 
-- 	#.
-- 	#.
-- 	#[in Stress Units]
-- 	#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
-- 	[kinetics.stressValues.v2.impact]
-- - wheel_mount = 16.0
-- - borehead_bearing = 8.0
+			#.
+			#.
+			#[in Stress Units]
+			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+			[kinetics.stressValues.v2.impact]
+				wheel_mount = 16.0
+				borehead_bearing = 8.0

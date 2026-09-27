@@ -63,8 +63,8 @@ mod_parents = []
 
 	#deprecated
 	[hide.disable_default_badges_section]
-- disable_default_badges_all = false
-- disable_default_badges = []
+		disable_default_badges_all = false
+		disable_default_badges = []
 
 [count]
 	#Makes hidden mods count added to the total mods count

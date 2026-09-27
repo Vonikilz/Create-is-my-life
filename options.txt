@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["serilum_mod_translations","tacz_resources","vanilla","fabric","mod_resources","moonlight:merged_pack","file/Create Brass Cursors.zip","file/Create Style Interface 1.21 - v0.3.zip","file/Create-Aeronautics-RU-v1.4.2.zip","file/SodiumTranslations.zip","file/Create is my life RU.zip","file/creepers-refreshed-v1.0.zip"]
+resourcePacks:["serilum_mod_translations","tacz_resources","vanilla","fabric","mod_resources","moonlight:merged_pack","file/Create Brass Cursors.zip","file/Create Style Interface 1.21 - v0.3.zip","file/Create-Aeronautics-RU-v1.4.2.zip","file/SodiumTranslations.zip","file/creepers-refreshed-v1.0.zip","file/Create is my life RU.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
@@ -271,6 +271,7 @@ key_key.ftbquests.gui_quest_panel.add_page_break:key.keyboard.p
 key_key.ftbquests.gui_quest_panel.add_line:key.keyboard.l
 key_key.ftbquests.gui_quest_panel.add_image:key.keyboard.i
 key_key.ftbquests.gui_quest_panel.edit_quest_props:key.keyboard.q
+key_key.kubejs.kubedex:key.keyboard.k
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.journeymap.minimap_preset:key.keyboard.backslash
 key_key.journeymap.toggle_entity_names:key.keyboard.g

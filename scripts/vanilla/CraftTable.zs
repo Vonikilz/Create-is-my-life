@@ -43,3 +43,8 @@ craftingTable.removeByName("minecraft:golden_carrot");
 craftingTable.addShapeless("golden_carrot",<item:minecraft:golden_carrot>,[
    <item:minecraft:carrot>, <item:create:golden_sheet>
 ]);
+//Порох
+craftingTable.removeByName("tacz:gunpowder");
+craftingTable.addShapeless("gunpowder",<item:minecraft:gunpowder>,[
+   <item:cgs:charcoal_dust>, <item:minecraft:sugar>
+]);

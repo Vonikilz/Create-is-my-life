@@ -28,7 +28,7 @@
       "chance__comment": "0.0 - 1.0, where 0.25 means a 25% chance",
       "chance": 0.01,
       "is_scaled_by_crd__comment": "when true the chance above grows with the area\u0027s regional difficulty, so it happens more often the longer that area has been settled",
-      "is_scaled_by_crd": false
+      "is_scaled_by_crd": true
     },
     "spawn_debuffed": {
       "is_enabled": true,
@@ -254,7 +254,7 @@
       "chance__comment": "0.0 - 1.0, where 0.25 means a 25% chance",
       "chance": 0.01,
       "is_scaled_by_crd__comment": "when true the chance above grows with the area\u0027s regional difficulty, so it happens more often the longer that area has been settled",
-      "is_scaled_by_crd": false
+      "is_scaled_by_crd": true
     },
     "player_zombie": {
       "is_enabled": false,

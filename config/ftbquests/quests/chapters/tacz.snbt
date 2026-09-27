@@ -4,52 +4,70 @@
 	filename: "tacz"
 	group: "79889B91BD165A20"
 	icon: {
-- id: "tacz:gun_smith_table"
+		id: "tacz:gun_smith_table"
 	}
 	id: "684FB5D02800C96E"
 	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
-- {
-- 	id: "420C859976875766"
-- 	tasks: [{
-- - id: "3F92E29EFF6AB1EC"
-- - item: { count: 1, id: "tacz:gun_smith_table" }
-- - type: "item"
-- 	}]
-- 	x: -2.0d
-- 	y: -1.5d
-- }
-- {
-- 	id: "4D5FD0D200A323F9"
-- 	tasks: [{
-- - id: "5B73B0EFAECAEBAC"
-- - item: { components: { "minecraft:custom_data": { BlockId: "tacz:attachment_workbench" } }, count: 1, id: "tacz:workbench_c" }
-- - type: "item"
-- 	}]
-- 	x: -0.5d
-- 	y: -1.5d
-- }
-- {
-- 	id: "1C8F837D6EEB37B3"
-- 	tasks: [{
-- - id: "21F7368E9BA99CC1"
-- - item: { components: { "minecraft:custom_data": { BlockId: "lrtactical:smith_table" } }, count: 1, id: "tacz:workbench_b" }
-- - type: "item"
-- 	}]
-- 	x: 1.0d
-- 	y: -1.5d
-- }
-- {
-- 	id: "5B373075EC241C27"
-- 	tasks: [{
-- - id: "2996B4A522DCF22B"
-- - item: { components: { "minecraft:custom_data": { BlockId: "tacz:ammo_workbench" } }, count: 1, id: "tacz:workbench_a" }
-- - type: "item"
-- 	}]
-- 	x: 2.5d
-- 	y: -1.5d
-- }
+		{
+			id: "420C859976875766"
+			tasks: [{
+				id: "3F92E29EFF6AB1EC"
+				item: { count: 1, id: "tacz:gun_smith_table" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "4D5FD0D200A323F9"
+			tasks: [{
+				id: "5B73B0EFAECAEBAC"
+				item: { components: { "minecraft:custom_data": { BlockId: "tacz:attachment_workbench" } }, count: 1, id: "tacz:workbench_c" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "1C8F837D6EEB37B3"
+			tasks: [{
+				id: "21F7368E9BA99CC1"
+				item: { components: { "minecraft:custom_data": { BlockId: "lrtactical:smith_table" } }, count: 1, id: "tacz:workbench_b" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "5B373075EC241C27"
+			tasks: [{
+				id: "2996B4A522DCF22B"
+				item: { components: { "minecraft:custom_data": { BlockId: "tacz:ammo_workbench" } }, count: 1, id: "tacz:workbench_a" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "0EBADC7FA4CD3A95"
+			rewards: [{
+				id: "2FD85E12AFFB171E"
+				item: {
+					count: 1
+					id: "create:experience_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "19B9529D76A9B913"
+				item: { count: 1, id: "tacz:target" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.75d
+		}
 	]
 }

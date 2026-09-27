@@ -1,0 +1,33 @@
+#Enable or disable only a special functions
+[feature]
+	cardboardArrow = true
+	cardboardElytra = true
+	cardboardShears = true
+	cardboardBall = true
+	cardboardIngot = true
+	cardboardRocket = true
+	cardboardTotem = true
+	cardboardTrident = true
+	cardboardBucket = true
+	cardboardShield = true
+	cardboardTnt = true
+	cardboardGoggles = true
+	cardboardJukebox = true
+
+	[feature.colorCardboard]
+		whiteCardboard = true
+		orangeCardboard = true
+		magentaCardboard = true
+		lightBlueCardboard = true
+		yellowCardboard = true
+		limeCardboard = true
+		pinkCardboard = true
+		grayCardboard = true
+		lightGrayCardboard = true
+		cyanCardboard = true
+		purpleCardboard = true
+		blueCardboard = true
+		brownCardboard = true
+		greenCardboard = true
+		redCardboard = true
+		blackCardboard = true

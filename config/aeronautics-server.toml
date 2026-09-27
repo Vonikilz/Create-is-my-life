@@ -90,19 +90,19 @@
 #Parameters and abilities of Aeronautics's kinetic mechanisms
 [kinetics]
 
-- #.
-- #.
-- #Fine tune the kinetic stats of individual components
-- [kinetics.stressValues.v2]
+		#.
+		#.
+		#Fine tune the kinetic stats of individual components
+		[kinetics.stressValues.v2]
 
-- 	#.
-- 	#.
-- 	#[in Stress Units]
-- 	#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
-- 	[kinetics.stressValues.v2.impact]
-- - smart_propeller = 4.0
-- - gyroscopic_propeller_bearing = 2.0
-- - mounted_potato_cannon = 2.0
-- - propeller_bearing = 2.0
-- - andesite_propeller = 4.0
-- - wooden_propeller = 4.0
+			#.
+			#.
+			#[in Stress Units]
+			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+			[kinetics.stressValues.v2.impact]
+				smart_propeller = 4.0
+				gyroscopic_propeller_bearing = 2.0
+				mounted_potato_cannon = 2.0
+				propeller_bearing = 2.0
+				andesite_propeller = 4.0
+				wooden_propeller = 4.0

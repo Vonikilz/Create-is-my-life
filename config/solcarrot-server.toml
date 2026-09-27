@@ -2,7 +2,7 @@
 	#Number of hearts you start out with.
 	# Default: 10
 	# Range: 0 ~ 1000
-	baseHearts = 10
+	baseHearts = 8
 	#Number of hearts you gain for reaching a new milestone.
 	# Default: 2
 	# Range: 0 ~ 1000
@@ -18,7 +18,7 @@
 	#The minimum hunger value foods need to provide in order to count for milestones, in half drumsticks.
 	# Default: 1
 	# Range: 0 ~ 1000
-	minimumFoodValue = 3
+	minimumFoodValue = 4
 
 [miscellaneous]
 	#Whether or not to reset the food list on death, effectively losing all bonus hearts.

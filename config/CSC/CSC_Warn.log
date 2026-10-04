@@ -16,3 +16,4 @@
 2026-09-13 02:32:41 [WARN] Invalid chain conveyor connection found. controller=[4, 3, 3], destination=[1, 5, 6]
 2026-09-13 02:32:41 [WARN] Matched invalid chain conveyor connection. controller=[4, 3, 3], connectionIndex=0, destination=[1, 5, 6]
 2026-09-13 02:32:41 [WARN] Removed invalid chain conveyor connection. controller=[4, 3, 3], connectionIndex=0
+2026-09-27 13:58:06 [WARN] [CSC] Old config.toml archived to D:\Minecraft\profiles\Test\config\CSC\config_old_2026_09_27_13_58_05.toml because ConfigVersion changed from 2.27.45 to 2.27.47

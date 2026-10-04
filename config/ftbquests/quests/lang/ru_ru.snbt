@@ -1,12 +1,12 @@
 {
 	chapter.082CB322D161F88E.title: "&aПриветствие&r"
-	chapter.0D3210D78B3E827A.title: "Tiny Mob Farm"
-	chapter.0DA3B699BE7F05A2.title: "Картонный Век"
+	chapter.0D3210D78B3E827A.title: "&3Tiny Mob Farm&r"
+	chapter.0DA3B699BE7F05A2.title: "&#FFBA25Картонный Век&r"
 	chapter.1A78A2242743379F.title: "&#9386FFProtection Pixel&r"
-	chapter.45D59F46855ACFD2.title: "Easy Villagers"
-	chapter.684FB5D02800C96E.title: "TaCZ"
-	chapter.71156B248E58C4BC.title: "Gunsmithing"
-	chapter.7C5D071717A9C6E4.title: "Испытания"
+	chapter.45D59F46855ACFD2.title: "&#56FF7DEasy Villagers&r"
+	chapter.684FB5D02800C96E.title: "&#FF7258TaCZ&r"
+	chapter.71156B248E58C4BC.title: "&#FAFF56Gunsmithing&r"
+	chapter.7C5D071717A9C6E4.title: "&#B589FFИспытания&r"
 	chapter_group.02CE339C8441EC4A.title: "&#FF4DC1Интересное&r"
 	chapter_group.120078CB61A704FD.title: "&6Create&r"
 	chapter_group.79889B91BD165A20.title: "&#FF2A30Вооружение&r"
@@ -20,7 +20,7 @@
 	]
 	quest.1561C58A868039CB.title: "Сила Картона!"
 	quest.1C73D8AC7C098F71.quest_desc: [
-		"Приветствую на сборке &eCreate is my life&r &bV1.0.4&r. Как понятно из названия, основной мод в сборке это &6Create&r и его аддоны, а также мод &eTaCZ&r. Соответсвено я баффнул обычных мобов, чтобы подобное вооружение имело смысл."
+		"Приветствую на сборке &eCreate is my life&r &bV1.0.5&r. Как понятно из названия, основной мод в сборке это &6Create&r и его аддоны, а также мод &eTaCZ&r. Соответсвено я баффнул обычных мобов, чтобы подобное вооружение имело смысл."
 		"{@pagebreak}"
 		"Усиление мобов было реализовано с помощью модов &6Majrusz's Progressive Difficulty&r и &cDangerous&r"
 	]
@@ -77,6 +77,7 @@
 	quest.50B1F05C36878511.quest_desc: ["Рыбалка теперь выгоднее"]
 	quest.54E9B994F27D7D17.quest_desc: ["Положить жителя в инвентарь?"]
 	quest.54E9B994F27D7D17.title: "Что?"
+	quest.5B373075EC241C27.quest_desc: ["Патроны можно крафтить с помощью смешивателя. Для этого надо использовать фильтры, с включенной настройкой \"Использовать данные\", её надо использовать из-за того, что все патроны в моде являются кастомными предметами."]
 	quest.5B373075EC241C27.title: "Нужно Много Патронов"
 	quest.5C4F4285C939CF9A.title: "Создайте его"
 	quest.6395D921FAE20234.quest_desc: ["Ссылка на мой ТГК CreateAll. В нём я делюсь новостями, сборками, механизмами, кодом и просто общаюсь."]

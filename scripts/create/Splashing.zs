@@ -19,3 +19,11 @@ addCreateSplashing("create:crushed_raw_lead","cgs:lead_nugget","create:copper_nu
 //Дроблёная платина
 <recipetype:create:splashing>.removeByName("createpropulsion:splashing/crushed_raw_platinum");
 addCreateSplashing("create:crushed_raw_platinum","createpropulsion:platinum_nugget","minecraft:gold_nugget",9,0.75);
+//Оплавленый незеритовый лом
+<recipetype:create:splashing>.removeByName("create_ore_excavation_plus:splashing/lavad_netherite_scrap__netherite_scrap");
+<recipetype:create:splashing>.addJsonRecipe("lavad_netherite_scrap_netherite_scrap", {
+    type: "create:splashing", 
+    results: [{id: "minecraft:netherite_scrap"}], 
+    ingredients: [{item: "create_ore_excavation_plus:lavad_netherite_scrap"}]
+    }
+);

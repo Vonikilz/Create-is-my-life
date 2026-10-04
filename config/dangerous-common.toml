@@ -14,7 +14,7 @@
 	#Maximum health multiplier for enemies. Only used when enableHealthScaling is true.
 	# Default: 2.0
 	# Range: 0.1 ~ 10.0
-	maxHealthMultiplier = 2.0
+	maxHealthMultiplier = 1.5
 	#Increment to increase health multiplier after reaching certain amount of days. Only used when enableHealthScaling is true.
 	# Default: 0.2
 	# Range: 0.1 ~ 10.0

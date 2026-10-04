@@ -1243,3 +1243,282 @@ Open config/CSC/config.toml for more detailed configuration.
 2026-09-27 02:08:17 [INFO]   \_____|_____/ \_____|
 2026-09-27 02:08:17 [INFO]                        
 2026-09-27 02:35:54 [INFO] CSC close completely, thanks for using!
+2026-09-27 12:16:06 [INFO] CSC is loading...   Success！
+2026-09-27 13:58:06 [WARN] [CSC] Old config.toml archived to D:\Minecraft\profiles\Test\config\CSC\config_old_2026_09_27_13_58_05.toml because ConfigVersion changed from 2.27.45 to 2.27.47
+2026-09-27 13:58:10 [INFO] CSC is loading...   Success！
+2026-09-27 14:03:36 [INFO] CSC is loading...   Success！
+2026-09-27 14:29:38 [INFO] CSC is loading...   Success！
+2026-09-27 14:30:27 [INFO]    _____  _____  _____ 
+2026-09-27 14:30:27 [INFO]   / ____|/ ____|/ ____|
+2026-09-27 14:30:27 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-27 14:30:27 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-27 14:30:27 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-27 14:30:27 [INFO]   \_____|_____/ \_____|
+2026-09-27 14:30:27 [INFO]                        
+2026-09-27 15:13:26 [INFO] CSC close completely, thanks for using!
+2026-09-27 15:13:43 [INFO]    _____  _____  _____ 
+2026-09-27 15:13:43 [INFO]   / ____|/ ____|/ ____|
+2026-09-27 15:13:43 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-27 15:13:43 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-27 15:13:43 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-27 15:13:43 [INFO]   \_____|_____/ \_____|
+2026-09-27 15:13:43 [INFO]                        
+2026-09-27 15:16:39 [INFO] CSC close completely, thanks for using!
+2026-09-27 15:22:45 [INFO] CSC is loading...   Success！
+2026-09-27 15:23:36 [INFO]    _____  _____  _____ 
+2026-09-27 15:23:36 [INFO]   / ____|/ ____|/ ____|
+2026-09-27 15:23:36 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-27 15:23:36 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-27 15:23:36 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-27 15:23:36 [INFO]   \_____|_____/ \_____|
+2026-09-27 15:23:36 [INFO]                        
+2026-09-27 15:41:35 [INFO] CSC close completely, thanks for using!
+2026-09-27 15:41:58 [INFO]    _____  _____  _____ 
+2026-09-27 15:41:58 [INFO]   / ____|/ ____|/ ____|
+2026-09-27 15:41:58 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-27 15:41:58 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-27 15:41:58 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-27 15:41:58 [INFO]   \_____|_____/ \_____|
+2026-09-27 15:41:58 [INFO]                        
+2026-09-27 16:42:16 [INFO] CSC close completely, thanks for using!
+2026-09-27 16:42:32 [INFO]    _____  _____  _____ 
+2026-09-27 16:42:32 [INFO]   / ____|/ ____|/ ____|
+2026-09-27 16:42:32 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-27 16:42:32 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-27 16:42:32 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-27 16:42:32 [INFO]   \_____|_____/ \_____|
+2026-09-27 16:42:32 [INFO]                        
+2026-09-27 16:52:30 [INFO] CSC close completely, thanks for using!
+2026-09-27 16:52:44 [INFO]    _____  _____  _____ 
+2026-09-27 16:52:44 [INFO]   / ____|/ ____|/ ____|
+2026-09-27 16:52:44 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-27 16:52:44 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-27 16:52:44 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-27 16:52:44 [INFO]   \_____|_____/ \_____|
+2026-09-27 16:52:44 [INFO]                        
+2026-09-27 16:53:53 [INFO] CSC close completely, thanks for using!
+2026-09-27 16:54:59 [INFO] CSC is loading...   Success！
+2026-09-27 16:55:44 [INFO]    _____  _____  _____ 
+2026-09-27 16:55:44 [INFO]   / ____|/ ____|/ ____|
+2026-09-27 16:55:44 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-27 16:55:44 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-27 16:55:44 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-27 16:55:44 [INFO]   \_____|_____/ \_____|
+2026-09-27 16:55:44 [INFO]                        
+2026-09-27 21:47:22 [INFO] CSC close completely, thanks for using!
+2026-09-29 20:34:19 [INFO] CSC is loading...   Success！
+2026-09-29 20:36:25 [INFO]    _____  _____  _____ 
+2026-09-29 20:36:25 [INFO]   / ____|/ ____|/ ____|
+2026-09-29 20:36:25 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-29 20:36:25 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-29 20:36:25 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-29 20:36:25 [INFO]   \_____|_____/ \_____|
+2026-09-29 20:36:25 [INFO]                        
+2026-09-29 21:41:54 [INFO] CSC close completely, thanks for using!
+2026-09-29 21:42:10 [INFO]    _____  _____  _____ 
+2026-09-29 21:42:10 [INFO]   / ____|/ ____|/ ____|
+2026-09-29 21:42:10 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-09-29 21:42:10 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-09-29 21:42:10 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-09-29 21:42:10 [INFO]   \_____|_____/ \_____|
+2026-09-29 21:42:10 [INFO]                        
+2026-09-29 23:22:11 [INFO] CSC close completely, thanks for using!
+2026-10-02 19:52:55 [INFO] CSC is loading...   Success！
+2026-10-02 19:53:50 [INFO]    _____  _____  _____ 
+2026-10-02 19:53:50 [INFO]   / ____|/ ____|/ ____|
+2026-10-02 19:53:50 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-02 19:53:50 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-02 19:53:50 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-02 19:53:50 [INFO]   \_____|_____/ \_____|
+2026-10-02 19:53:50 [INFO]                        
+2026-10-02 20:12:19 [INFO] CSC close completely, thanks for using!
+2026-10-02 20:12:35 [INFO]    _____  _____  _____ 
+2026-10-02 20:12:35 [INFO]   / ____|/ ____|/ ____|
+2026-10-02 20:12:35 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-02 20:12:35 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-02 20:12:35 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-02 20:12:35 [INFO]   \_____|_____/ \_____|
+2026-10-02 20:12:35 [INFO]                        
+2026-10-02 21:27:22 [INFO] CSC close completely, thanks for using!
+2026-10-02 21:27:40 [INFO]    _____  _____  _____ 
+2026-10-02 21:27:40 [INFO]   / ____|/ ____|/ ____|
+2026-10-02 21:27:40 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-02 21:27:40 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-02 21:27:40 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-02 21:27:40 [INFO]   \_____|_____/ \_____|
+2026-10-02 21:27:40 [INFO]                        
+2026-10-02 21:33:28 [INFO] CSC close completely, thanks for using!
+2026-10-02 21:34:33 [INFO] CSC is loading...   Success！
+2026-10-02 21:35:20 [INFO]    _____  _____  _____ 
+2026-10-02 21:35:20 [INFO]   / ____|/ ____|/ ____|
+2026-10-02 21:35:20 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-02 21:35:20 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-02 21:35:20 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-02 21:35:20 [INFO]   \_____|_____/ \_____|
+2026-10-02 21:35:20 [INFO]                        
+2026-10-03 00:16:13 [INFO] thread run！goal =》./schematics/uploaded/VonlklLz/Sborchik_3x3_2.nbt
+2026-10-03 00:16:14 [INFO] Meow, output schematic item list!
+2026-10-03 00:16:14 [INFO] ID: create:mechanical_crafter, Count: 9
+2026-10-03 00:16:14 [INFO] bibi~ scan success time consume：86 ms
+2026-10-03 00:16:22 [INFO] thread run！goal =》./schematics/uploaded/VonlklLz/Sborchik_3x3x3.nbt
+2026-10-03 00:16:22 [INFO] Meow, output schematic item list!
+2026-10-03 00:16:22 [INFO] ID: create:mechanical_crafter, Count: 27
+2026-10-03 00:16:22 [INFO] bibi~ scan success time consume：23 ms
+2026-10-03 00:22:03 [INFO] CSC close completely, thanks for using!
+2026-10-03 17:24:27 [INFO] CSC is loading...   Success！
+2026-10-03 17:25:19 [INFO]    _____  _____  _____ 
+2026-10-03 17:25:19 [INFO]   / ____|/ ____|/ ____|
+2026-10-03 17:25:19 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-03 17:25:19 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-03 17:25:19 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-03 17:25:19 [INFO]   \_____|_____/ \_____|
+2026-10-03 17:25:19 [INFO]                        
+2026-10-03 18:36:06 [INFO] thread run！goal =》./schematics/uploaded/VonlklLz/1.nbt
+2026-10-03 18:36:06 [INFO] Meow, output schematic item list!
+2026-10-03 18:36:06 [INFO] ID: minecraft:lever, Count: 1
+2026-10-03 18:36:06 [INFO] ID: create_radar:auto_yaw_controller, Count: 1
+2026-10-03 18:36:06 [INFO] ID: create:brass_belt_funnel, Count: 1
+2026-10-03 18:36:06 [INFO] ID: minecraft:barrel, Count: 1
+2026-10-03 18:36:06 [INFO] ID: create_radar:fire_controller, Count: 1
+2026-10-03 18:36:06 [INFO] ID: createbigcannons:autocannon_breech, Count: 1
+2026-10-03 18:36:06 [INFO] ID: create:motor, Count: 3
+2026-10-03 18:36:06 [INFO] ID: create:belt, Count: 2
+2026-10-03 18:36:06 [INFO] ID: createbigcannons:autocannon_recoil_spring, Count: 1
+2026-10-03 18:36:06 [INFO] ID: create_radar:data_link, Count: 4
+2026-10-03 18:36:06 [INFO] ID: createbigcannons:autocannon, Count: 1
+2026-10-03 18:36:06 [INFO] ID: createbigcannons:cannon_mount, Count: 1
+2026-10-03 18:36:06 [INFO] ID: create_radar:auto_pitch_controller, Count: 1
+2026-10-03 18:36:06 [INFO] ID: create:andesite_belt_funnel, Count: 1
+2026-10-03 18:36:06 [INFO] bibi~ scan success time consume：92 ms
+2026-10-03 18:38:07 [INFO] thread run！goal =》./schematics/uploaded/VonlklLz/auto_cannon_1.nbt
+2026-10-03 18:38:07 [INFO] Meow, output schematic item list!
+2026-10-03 18:38:07 [INFO] ID: minecraft:lever, Count: 1
+2026-10-03 18:38:07 [INFO] ID: create_radar:auto_yaw_controller, Count: 1
+2026-10-03 18:38:07 [INFO] ID: create:brass_belt_funnel, Count: 1
+2026-10-03 18:38:07 [INFO] ID: minecraft:barrel, Count: 1
+2026-10-03 18:38:07 [INFO] ID: create_radar:fire_controller, Count: 1
+2026-10-03 18:38:07 [INFO] ID: createbigcannons:autocannon_breech, Count: 1
+2026-10-03 18:38:07 [INFO] ID: create:belt, Count: 2
+2026-10-03 18:38:07 [INFO] ID: createbigcannons:autocannon_recoil_spring, Count: 1
+2026-10-03 18:38:07 [INFO] ID: create_radar:data_link, Count: 4
+2026-10-03 18:38:07 [INFO] ID: createbigcannons:autocannon, Count: 1
+2026-10-03 18:38:07 [INFO] ID: createbigcannons:cannon_mount, Count: 1
+2026-10-03 18:38:07 [INFO] ID: create_radar:auto_pitch_controller, Count: 1
+2026-10-03 18:38:07 [INFO] ID: create:andesite_belt_funnel, Count: 1
+2026-10-03 18:38:07 [INFO] bibi~ scan success time consume：14 ms
+2026-10-03 18:58:48 [INFO] CSC close completely, thanks for using!
+2026-10-03 19:31:48 [INFO] CSC is loading...   Success！
+2026-10-03 19:34:45 [INFO]    _____  _____  _____ 
+2026-10-03 19:34:45 [INFO]   / ____|/ ____|/ ____|
+2026-10-03 19:34:45 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-03 19:34:45 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-03 19:34:45 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-03 19:34:45 [INFO]   \_____|_____/ \_____|
+2026-10-03 19:34:45 [INFO]                        
+2026-10-03 19:54:05 [INFO] CSC close completely, thanks for using!
+2026-10-03 19:55:17 [INFO] CSC is loading...   Success！
+2026-10-03 19:56:05 [INFO]    _____  _____  _____ 
+2026-10-03 19:56:05 [INFO]   / ____|/ ____|/ ____|
+2026-10-03 19:56:05 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-03 19:56:05 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-03 19:56:05 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-03 19:56:05 [INFO]   \_____|_____/ \_____|
+2026-10-03 19:56:05 [INFO]                        
+2026-10-03 20:34:30 [INFO] thread run！goal =》./schematics/uploaded/VonlklLz/Sborchik_3x3x3.nbt
+2026-10-03 20:34:30 [INFO] Meow, output schematic item list!
+2026-10-03 20:34:30 [INFO] ID: create:mechanical_crafter, Count: 27
+2026-10-03 20:34:30 [INFO] bibi~ scan success time consume：92 ms
+2026-10-03 20:46:25 [INFO] CSC close completely, thanks for using!
+2026-10-03 20:46:42 [INFO]    _____  _____  _____ 
+2026-10-03 20:46:42 [INFO]   / ____|/ ____|/ ____|
+2026-10-03 20:46:42 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-03 20:46:42 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-03 20:46:42 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-03 20:46:42 [INFO]   \_____|_____/ \_____|
+2026-10-03 20:46:42 [INFO]                        
+2026-10-03 21:47:55 [INFO] CSC close completely, thanks for using!
+2026-10-03 21:48:14 [INFO]    _____  _____  _____ 
+2026-10-03 21:48:14 [INFO]   / ____|/ ____|/ ____|
+2026-10-03 21:48:14 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-03 21:48:14 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-03 21:48:14 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-03 21:48:14 [INFO]   \_____|_____/ \_____|
+2026-10-03 21:48:14 [INFO]                        
+2026-10-03 22:35:47 [INFO] CSC close completely, thanks for using!
+2026-10-03 22:36:04 [INFO]    _____  _____  _____ 
+2026-10-03 22:36:04 [INFO]   / ____|/ ____|/ ____|
+2026-10-03 22:36:04 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-03 22:36:04 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-03 22:36:04 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-03 22:36:04 [INFO]   \_____|_____/ \_____|
+2026-10-03 22:36:04 [INFO]                        
+2026-10-03 22:42:24 [INFO] CSC close completely, thanks for using!
+2026-10-03 22:42:41 [INFO]    _____  _____  _____ 
+2026-10-03 22:42:41 [INFO]   / ____|/ ____|/ ____|
+2026-10-03 22:42:41 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-03 22:42:41 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-03 22:42:41 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-03 22:42:41 [INFO]   \_____|_____/ \_____|
+2026-10-03 22:42:41 [INFO]                        
+2026-10-04 01:01:44 [INFO] CSC close completely, thanks for using!
+2026-10-04 01:02:05 [INFO]    _____  _____  _____ 
+2026-10-04 01:02:05 [INFO]   / ____|/ ____|/ ____|
+2026-10-04 01:02:05 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-04 01:02:05 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-04 01:02:05 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-04 01:02:05 [INFO]   \_____|_____/ \_____|
+2026-10-04 01:02:05 [INFO]                        
+2026-10-04 01:02:40 [INFO] CSC close completely, thanks for using!
+2026-10-04 01:02:58 [INFO]    _____  _____  _____ 
+2026-10-04 01:02:58 [INFO]   / ____|/ ____|/ ____|
+2026-10-04 01:02:58 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-04 01:02:58 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-04 01:02:58 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-04 01:02:58 [INFO]   \_____|_____/ \_____|
+2026-10-04 01:02:58 [INFO]                        
+2026-10-04 03:42:32 [INFO] CSC close completely, thanks for using!
+2026-10-04 16:39:55 [INFO] CSC is loading...   Success！
+2026-10-04 16:40:47 [INFO]    _____  _____  _____ 
+2026-10-04 16:40:47 [INFO]   / ____|/ ____|/ ____|
+2026-10-04 16:40:47 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-04 16:40:47 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-04 16:40:47 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-04 16:40:47 [INFO]   \_____|_____/ \_____|
+2026-10-04 16:40:47 [INFO]                        
+2026-10-04 16:41:21 [INFO] CSC close completely, thanks for using!
+2026-10-04 16:50:48 [INFO] CSC is loading...   Success！
+2026-10-04 16:51:37 [INFO]    _____  _____  _____ 
+2026-10-04 16:51:37 [INFO]   / ____|/ ____|/ ____|
+2026-10-04 16:51:37 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-04 16:51:37 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-04 16:51:37 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-04 16:51:37 [INFO]   \_____|_____/ \_____|
+2026-10-04 16:51:37 [INFO]                        
+2026-10-04 17:03:14 [INFO] CSC close completely, thanks for using!
+2026-10-04 17:07:47 [INFO] CSC is loading...   Success！
+2026-10-04 17:08:33 [INFO]    _____  _____  _____ 
+2026-10-04 17:08:33 [INFO]   / ____|/ ____|/ ____|
+2026-10-04 17:08:33 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-04 17:08:33 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-04 17:08:33 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-04 17:08:33 [INFO]   \_____|_____/ \_____|
+2026-10-04 17:08:33 [INFO]                        
+2026-10-04 17:09:04 [INFO] CSC close completely, thanks for using!
+2026-10-04 17:11:12 [INFO] CSC is loading...   Success！
+2026-10-04 17:11:58 [INFO]    _____  _____  _____ 
+2026-10-04 17:11:58 [INFO]   / ____|/ ____|/ ____|
+2026-10-04 17:11:58 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-04 17:11:58 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-04 17:11:58 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-04 17:11:58 [INFO]   \_____|_____/ \_____|
+2026-10-04 17:11:58 [INFO]                        
+2026-10-04 17:28:43 [INFO] CSC close completely, thanks for using!
+2026-10-04 17:29:57 [INFO] CSC is loading...   Success！
+2026-10-04 17:34:55 [INFO]    _____  _____  _____ 
+2026-10-04 17:34:55 [INFO]   / ____|/ ____|/ ____|
+2026-10-04 17:34:55 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-10-04 17:34:55 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-10-04 17:34:55 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-10-04 17:34:55 [INFO]   \_____|_____/ \_____|
+2026-10-04 17:34:55 [INFO]                        
+2026-10-04 17:35:33 [INFO] CSC close completely, thanks for using!
